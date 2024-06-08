@@ -1,11 +1,9 @@
-//trying to fix voices not loding problem, idk what's happening with the tts, do you know whats happening joseph?
 const voices = require("./info").voices;
 const qs = require("querystring");
 const brotli = require("brotli");
 const https = require("https");
 const md5 = require("js-md5");
 const http = require("http");
-const mp3Duration = require("mp3-duration");
 
 // Fallback option for compatibility between Wrapper and https://github.com/Windows81/Text2Speech-Haxxor-JS.
 let get;
@@ -64,34 +62,60 @@ module.exports = (voiceName, text) => {
 				req.end();
 				break;
 			}
-      case "voiceforge": rej("The voiceforge voices don't work anymore. please use different voices.");
-			case "cepstral": {
-				https.get("https://www.cepstral.com/en/demos", (r) => {
-					const cookie = r.headers["set-cookie"];
-					var q = qs.encode({
-						voice: voice.arg,
-						voiceText: text,
-					});
-					var buffers = [];
-					https.get(
-						{
-							host: "www.cepstral.com",
-							path: `/demos/createAudio.php?${q}`,
-							headers: { Cookie: cookie },
-						},
-						(r) => {
-							r.on("data", (b) => buffers.push(b));
-							r.on("end", () => {
-								const html = Buffer.concat(buffers);
-								const beg = html.indexOf('id="mp3Source" src="') + 20;
-								const end = html.indexOf('"', beg);
-								const loc = html.subarray(beg, end).toString();
-								get(`https://www.cepstral.com${loc}`).then(res).catch(rej);
-							});
-						}
-					);
-				});
-				break;
+			 case "cepstral": {
+                https.get('https://www.cepstral.com/en/demos', r => {
+                    const cookie = r.headers['set-cookie'];
+                    var q = qs.encode({
+                        voice: voice.arg,
+                        voiceText: text,
+                        rate: 170,
+                        pitch: 1,
+                        sfx: 'none',
+                    });
+                    var buffers = [];
+                    var req = https.get({
+                        host: 'www.cepstral.com',
+                        path: `/demos/createAudio.php?${q}`,
+                        headers: { Cookie: cookie },
+                        method: 'GET',
+                    }, r => {
+                        r.on('data', b => buffers.push(b));
+                        r.on('end', () => {
+                            var json = JSON.parse(Buffer.concat(buffers));
+                            get(`https://www.cepstral.com${json.mp3_loc}`).then(res).catch(rej);
+                        })
+                    });
+                });
+                break;
+            }
+         case "cepstralfast": {
+                https.get('https://www.cepstral.com/en/demos', r => {
+                    const cookie = r.headers['set-cookie'];
+                    var q = qs.encode({
+                        voice: voice.arg,
+                        voiceText: text,
+                        rate: 170,
+                        pitch: 4.2,
+                        sfx: 'none',
+                    });
+                    var buffers = [];
+                    var req = https.get({
+                        host: 'www.cepstral.com',
+                        path: `/demos/createAudio.php?${q}`,
+                        headers: { Cookie: cookie },
+                        method: 'GET',
+                    }, r => {
+                        r.on('data', b => buffers.push(b));
+                        r.on('end', () => {
+                            var json = JSON.parse(Buffer.concat(buffers));
+                            get(`https://www.cepstral.com${json.mp3_loc}`).then(res).catch(rej);
+                        })
+                    });
+                });
+                break;
+            }
+			case "voiceforge": {
+				console.log("user used voiceforge voice");
 			}
 			case "vocalware": {
 				var [eid, lid, vid] = voice.arg;
@@ -128,25 +152,7 @@ module.exports = (voiceName, text) => {
 				break;
 			}
 			case "voicery": {
-				var q = qs.encode({
-					text: text,
-					speaker: voice.arg,
-					ssml: text.includes("<"),
-					//style: 'default',
-				});
-				https.get(
-					{
-						host: "www.voicery.com",
-						path: `/api/generate?${q}`,
-					},
-					(r) => {
-						var buffers = [];
-						r.on("data", (d) => buffers.push(d));
-						r.on("end", () => res(Buffer.concat(buffers)));
-						r.on("error", rej);
-					}
-				);
-				break;
+				 console.log("Voicery shut down in 2020. Voices will be removed soon.");
 			}
 			case "watson": {
 				var q = qs.encode({
@@ -170,106 +176,9 @@ module.exports = (voiceName, text) => {
 				break;
 			}
 			case "acapela": {
-				var q = qs.encode({
-					cl_login: "VAAS_MKT",
-					req_snd_type: "",
-					req_voice: voice.arg,
-					cl_app: "seriousbusiness",
-					req_text: text,
-					cl_pwd: "M5Awq9xu",
-				});
-				http.get(
-					{
-						host: "vaassl3.acapela-group.com",
-						path: `/Services/AcapelaTV/Synthesizer?${q}`,
-					},
-					(r) => {
-						var buffers = [];
-						r.on("data", (d) => buffers.push(d));
-						r.on("end", () => {
-							const html = Buffer.concat(buffers);
-							const beg = html.indexOf("&snd_url=") + 9;
-							const end = html.indexOf("&", beg);
-							const sub = html.subarray(beg + 4, end).toString();
-							if (!sub.startsWith("://")) return rej();
-							get(`https${sub}`).then(res).catch(rej);
-						});
-						r.on("error", rej);
-					}
-				);
-				break;
-			}
-			/*case "readloud": {
-				const req = https.request(
-					{
-						host: "readloud.net",
-						path: voice.arg,
-						method: "POST",
-						port: "443",
-						headers: {
-							"Content-Type": "application/x-www-form-urlencoded",
-						},
-					},
-					(r) => {
-						var buffers = [];
-						r.on("data", (d) => buffers.push(d));
-						r.on("end", () => {
-							const html = Buffer.concat(buffers);
-							const beg = html.indexOf("/tmp/");
-							const end = html.indexOf(".mp3", beg) + 4;
-							const sub = html.subarray(beg, end).toString();
-							const loc = `https://readloud.net${sub}`;
-							get(loc).then(res).catch(rej);
-						});
-						r.on("error", rej);
-					}
-				);
-				req.end(
-					qs.encode({
-						but1: text,
-						but: "Enviar",
-					})
-				);
-				break;
-			} */
-
-        /*case "readloud": {
-					const req = https.request(
-						{
-							hostname: "gonutts.net",
-							path: voice.arg,
-							method: "POST",
-							headers: { 
-								"Content-Type": "application/x-www-form-urlencoded"
-							}
-						},
-						(r) => {
-							let buffers = [];
-							r.on("data", (b) => buffers.push(b));
-							r.on("end", () => {
-								const html = Buffer.concat(buffers);
-								const beg = html.indexOf("/tmp/");
-								const end = html.indexOf("mp3", beg) + 3;
-								const sub = html.subarray(beg, end).toString();
-
-								https
-									.get(`https://gonutts.net${sub}`, res)
-									.on("error", rej);
-							});
-						}
-					).on("error", rej);
-					req.end(
-						new URLSearchParams({
-							but1: text,
-							butS: 0,
-							butP: 0,
-							butPauses: 0,
-							but: "Submit",
-						}).toString()
-					);
-					break;
-				} */
-      case "readloud": {
+					console.log("acapela voice has been used by user")
+				}
+				case "readloud": {
 					const req = https.request(
 						{
 							hostname: "101.99.94.14",														
@@ -296,8 +205,11 @@ module.exports = (voiceName, text) => {
 										headers: {
 											Host: "gonutts.net"
 										}
-									}, res)
-										.on("error", rej);
+									}, (r) => {
+                                                                                let buffers = [];
+                                                                                r.on("data", (d) => buffers.push(d));
+                                                                                r.on("end", () => res(Buffer.concat(buffers)));
+                                                                        }).on("error", rej);
 								} else {
 									return rej("Could not find voice clip file in response.");
 								}
@@ -315,8 +227,32 @@ module.exports = (voiceName, text) => {
 						}).toString()
 					);
 					break;
-				}
-
+			}
+        
+        case "svox": {
+				var q = qs.encode({
+					apikey: "e3a4477c01b482ea5acc6ed03b1f419f",
+					action: "convert",
+					format: "mp3",
+					voice: voice.arg,
+					speed: 0,
+					text: text,
+					version: "0.2.99",
+				});
+				https.get(
+					{
+						host: "api.ispeech.org",
+						path: `/api/rest?${q}`,
+					},
+					(r) => {
+						var buffers = [];
+						r.on("data", (d) => buffers.push(d));
+						r.on("end", () => res(Buffer.concat(buffers)));
+						r.on("error", rej);
+					}
+				);
+				break;
+			}
 			case "cereproc": {
 				const req = https.request(
 					{
