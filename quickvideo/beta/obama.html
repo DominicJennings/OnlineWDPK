@@ -1,0 +1,45 @@
+<html style="background-image: url('bg-obama.jpg');">
+  <head>
+    <title>The used to be President's Interview!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">h
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!--note to joseph: should we fork this repl to test out the supabase saving system -->
+    <meta name="description" content="GoWDPK is an experimental instance by Jerry2009, where he just messes around with GoAnimate Wrapper.">
+    <meta name="keywords" content="wrapper, ga, gowdpk, comedy world, animations, free animation, goanimate revival, how to get comedy world, family guy goanimate, ga, vyond legacy, vyond old lvm, how to get comedy world back on vyond, wrapper no download">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script src="https://josephanimate2021.github.io/lvm-static/api/jquery/index.js"></script>
+    <script src="https://replit.com/public/js/repl-auth-v2.js"></script>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">GoWDPK</a>
+        </div>
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="/" onclick="confirm('Are you sure that you want to leave this page? once you do so, all of your changes will be lost.')">Home</a></li>
+          <li><a href="javascript:;" onclick="checkLoginStatus('create-video')">Create</a></li>
+          <li><a href="javascript:;" onclick="checkLoginStatus('create-char')">Character Creator</a></li>
+          <li>
+            <div class="dropdown">
+              <button onclick="document.getElementById('myDropdown').classList.toggle('show');" class="dropbtn">Explore <span class="glyphicon glyphicon-triangle-bottom"></span></button>
+        
+              <div id="myDropdown" class="dropdown-content">
+                <a href="javascript:;" onclick="modalWindow('./export.html', 'WDPKRecorder')">WDPKRecorder</a>
+                <a href="javascript:;" onclick="modalWindow('https://gowdpk.freeforums.net/', 'Community Forums')">Community</a>
+                <a href="javascript:;" onclick="modalWindow('./uploader/main.html', 'Wrapper2WDPK Converter')">Wrapper2WDPK Converter</a>
+              </div>
+            </div>
+          </li>
+          <li><a href="javascript:;" onclick="modalWindow('https://www.youtube.com/@josephanimate', 'josephanimate - YouTube')">Joseph Animate's YouTube Channel</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right" id="options-right">
+          <li><a href="javascript:;" onclick="document.getElementById('login-modal').style.display='block'"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+        </ul>
+      </div>
+    </nav>
+    <div class="go">
+      </div>

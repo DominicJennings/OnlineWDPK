@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="WDPK" name="WDPK Vault 83.7" cc_theme_id="import">
+<!--Sorry that there's no indenting, I couldn't get the import script to keep that.-->
+<!--Also, be sure to leave a blank line before <theme>, otherwise the import script breaks.-->
+<sound id="WDPK.mp3" name="WDPK 83.7 FM" downloadtype="progressive" subtype="bgmusic" duration="163788" enable="Y" is_premium="N" aid="28544" money="0" sharing="0" team="1"/>
+<sound id="Around the world.mp3" name="Around the world" downloadtype="progressive" subtype="bgmusic" duration="163788" enable="Y" is_premium="N" aid="28545" money="0" sharing="0" team="1"/>
+<sound id="Revolution 909.mp3" name="Revolution 909" downloadtype="progressive" subtype="bgmusic" duration="163788" enable="Y" is_premium="N" aid="28544" money="0" sharing="0" team="1"/>
+
+  <char id="test" name="test" thumb="test" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+		<action id="stand.swf" name="stand with" loop="Y" totalframe="1" enable="Y" aid="238"/>
+	</char>
+    
+</theme>

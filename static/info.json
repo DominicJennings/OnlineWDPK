@@ -1,0 +1,93 @@
+{
+	"GET": {
+		"/index.html": {
+			"headers": {
+				"Location": "/html/list.html"
+			},
+			"statusCode": 302,
+			"content": ""
+		},
+		"/$": {
+			"headers": {
+				"Location": "/html/list.html"
+			},
+			"statusCode": 302,
+			"content": ""
+		},
+    "/business/videoplans": {
+      "headers": {
+				"Location": "/html/list.html?errorMessage=You need to be logged into your account in order to use gowdpk without interuptions."
+			},
+			"statusCode": 302,
+			"content": ""
+    },
+		"/crossdomain.xml": {
+			"headers": {
+				"Content-Type": "text/x-cross-domain-policy"
+			},
+			"content": "<cross-domain-policy><allow-access-from domain=\"*\"/></cross-domain-policy>"
+		},
+		"/html/([^?]+html).*": {
+			"contentReplace": true,
+			"regexLink": "/html/$1",
+			"headers": {
+				"Content-Type": "text/html; charset=UTF-8"
+			}
+		},
+    
+    "/js/([^?]+js).*": {
+			"contentReplace": true,
+			"regexLink": "/js/$1",
+			"headers": {
+				"Content-Type": "text/javascript"
+			}
+		},
+    "/js/([^?]+).*": {
+			"regexLink": "/js/$1",
+			"headers": {
+				"Content-Type": "text/javascript"
+			}
+		},
+    "/quickvideo/([^?]+html).*": {
+			"contentReplace": true,
+			"regexLink": "/quickvideo/$1",
+			"headers": {
+				"Content-Type": "text/html"
+			}
+		},
+     "/quickvideo/([^?]+json).*": {
+			"contentReplace": true,
+			"regexLink": "/quickvideo/$1",
+			"headers": {
+				"Content-Type": "application/json"
+			}
+		},
+    "/quickvideo/([^?]+).*": {
+			"regexLink": "/quickvideo/$1",
+			"headers": {
+				"Content-Type": "text/javascript"
+			}
+		},
+    "/quickvideo/([^?]+css).*": {
+			"regexLink": "/quickvideo/$1",
+			"headers": {
+				"Content-Type": "text/css"
+			}
+		},
+		"/html/([^?]+).*": {
+			"regexLink": "/html/$1",
+			"headers": {
+				"Content-Type": "text/html; charset=UTF-8"
+			}
+		}
+	},
+  "POST": {
+    "/go/videoList": {
+      "headers": {
+				"Location": "/html/list.html"
+			},
+			"statusCode": 302,
+			"content": ""
+    }
+  }
+}

@@ -1,0 +1,1310 @@
+<film copyable="0" duration="27.5" published="1" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[i dont even know what this vid is]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="480" lock="Y" index="0" color="16777215" guid="E283055B-8CEA-675C-FA2A-B06B83AC8DCE" combgId="common.cbg_ncc_sea">
+    <bg id="cbg_ncc_sea_BG7" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorA">632273</color>
+      <color r="colorB">8370961</color>
+    </bg>
+    <prop id="PROP6" index="1">
+      <file>common.ncc_htree.swf</file>
+      <x>195.65,633.65</x>
+      <y>204.35,217.3</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP9" index="2">
+      <file>common.ncc_htree.swf</file>
+      <x>289.3,727.3</x>
+      <y>204.35,217.3</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP10" index="3">
+      <file>common.ncc_htree.swf</file>
+      <x>390.8,828.8</x>
+      <y>204.35,217.3</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP11" index="4">
+      <file>common.ncc_htree.swf</file>
+      <x>492.2,930.2</x>
+      <y>204.35,217.3</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP12" index="5">
+      <file>common.ncc_htree.swf</file>
+      <x>593.55,1031.55</x>
+      <y>204.35,217.3</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP18" index="6">
+      <file>common.ncc_htree.swf</file>
+      <x>-281.45,156.55</x>
+      <y>197.675,210.625</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP19" index="7">
+      <file>common.ncc_htree.swf</file>
+      <x>-202.25,235.75</x>
+      <y>197.675,210.625</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP20" index="8">
+      <file>common.ncc_htree.swf</file>
+      <x>-116.3,321.7</x>
+      <y>197.8,210.75</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP21" index="9">
+      <file>common.ncc_htree.swf</file>
+      <x>-14.9,423.1</x>
+      <y>197.8,210.75</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP22" index="10">
+      <file>common.ncc_htree.swf</file>
+      <x>86.45,524.45</x>
+      <y>197.8,210.75</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP33" index="11">
+      <file>common.ncc_htree.swf</file>
+      <x>242.95,680.95</x>
+      <y>205.0013889,217.9513889</y>
+      <xscale>0.5042923,0.5042923</xscale>
+      <yscale>0.5042923,0.5042923</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP34" index="12">
+      <file>common.ncc_htree.swf</file>
+      <x>354.8097222,792.8097222</x>
+      <y>205.0013889,217.9513889</y>
+      <xscale>0.5042923,0.5042923</xscale>
+      <yscale>0.5042923,0.5042923</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP35" index="13">
+      <file>common.ncc_htree.swf</file>
+      <x>476.0458333,914.0458333</x>
+      <y>205.0013889,217.9513889</y>
+      <xscale>0.5042923,0.5042923</xscale>
+      <yscale>0.5042923,0.5042923</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP36" index="14">
+      <file>common.ncc_htree.swf</file>
+      <x>597.1625,1035.1625</x>
+      <y>205.0013889,217.9513889</y>
+      <xscale>0.5042923,0.5042923</xscale>
+      <yscale>0.5042923,0.5042923</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP37" index="15">
+      <file>common.ncc_htree.swf</file>
+      <x>718.2194444,1156.2194444</x>
+      <y>205.0013889,217.9513889</y>
+      <xscale>0.5042923,0.5042923</xscale>
+      <yscale>0.5042923,0.5042923</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP38" index="16">
+      <file>common.ncc_htree.swf</file>
+      <x>-326.9194444</x>
+      <y>197.0284722</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP39" index="17">
+      <file>common.ncc_htree.swf</file>
+      <x>-232.3194444,205.6805556</x>
+      <y>197.0284722,209.9784722</y>
+      <xscale>0.5042923,0.5042923</xscale>
+      <yscale>0.5042923,0.5042923</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP40" index="18">
+      <file>common.ncc_htree.swf</file>
+      <x>-129.6569444,308.3430556</x>
+      <y>197.1777778,210.1277778</y>
+      <xscale>0.5042923,0.5042923</xscale>
+      <yscale>0.5042923,0.5042923</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP41" index="19">
+      <file>common.ncc_htree.swf</file>
+      <x>-8.5402778,429.4597222</x>
+      <y>197.1777778,210.1277778</y>
+      <xscale>0.5042923,0.5042923</xscale>
+      <yscale>0.5042923,0.5042923</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP42" index="20">
+      <file>common.ncc_htree.swf</file>
+      <x>112.5166667,550.5166667</x>
+      <y>197.1777778,210.1277778</y>
+      <xscale>0.5042923,0.5042923</xscale>
+      <yscale>0.5042923,0.5042923</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP53" index="21">
+      <file>common.ncc_htree.swf</file>
+      <x>322.1265517,760.1265517</x>
+      <y>208.9084962,221.8584962</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP54" index="22">
+      <file>common.ncc_htree.swf</file>
+      <x>450.9580938,888.9580938</x>
+      <y>208.9084962,221.8584962</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP55" index="23">
+      <file>common.ncc_htree.swf</file>
+      <x>590.5886494,1028.5886494</x>
+      <y>208.9084962,221.8584962</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP56" index="24">
+      <file>common.ncc_htree.swf</file>
+      <x>730.0816379,1168.0816379</x>
+      <y>208.9084962,221.8584962</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP57" index="25">
+      <file>common.ncc_htree.swf</file>
+      <x>869.5058429,1307.5058429</x>
+      <y>208.9084962,221.8584962</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP58" index="26">
+      <file>common.ncc_htree.swf</file>
+      <x>-334.2058429</x>
+      <y>199.7258956</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP59" index="27">
+      <file>common.ncc_htree.swf</file>
+      <x>-225.2527394,212.7472606</x>
+      <y>199.7258956,212.6758956</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP60" index="28">
+      <file>common.ncc_htree.swf</file>
+      <x>-107.0138601,330.9861399</x>
+      <y>199.8978544,212.8478544</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP61" index="29">
+      <file>common.ncc_htree.swf</file>
+      <x>32.4791283,470.4791283</x>
+      <y>199.8978544,212.8478544</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP62" index="30">
+      <file>common.ncc_htree.swf</file>
+      <x>171.9033334,609.9033334</x>
+      <y>199.8978544,212.8478544</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP73" index="31">
+      <file>common.ncc_htree.swf</file>
+      <x>250.1265517,688.1265517</x>
+      <y>205.6084962,218.5584962</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP74" index="32">
+      <file>common.ncc_htree.swf</file>
+      <x>378.9580938,816.9580938</x>
+      <y>205.6084962,218.5584962</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP75" index="33">
+      <file>common.ncc_htree.swf</file>
+      <x>518.5886494,956.5886494</x>
+      <y>205.6084962,218.5584962</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP76" index="34">
+      <file>common.ncc_htree.swf</file>
+      <x>658.0816379,1096.0816379</x>
+      <y>205.6084962,218.5584962</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP77" index="35">
+      <file>common.ncc_htree.swf</file>
+      <x>797.5058429,1235.5058429</x>
+      <y>205.6084962,218.5584962</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP78" index="36">
+      <file>common.ncc_htree.swf</file>
+      <x>-406.2058429</x>
+      <y>196.4258956</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP79" index="37">
+      <file>common.ncc_htree.swf</file>
+      <x>-297.2527394,140.7472606</x>
+      <y>196.4258956,209.3758956</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP80" index="38">
+      <file>common.ncc_htree.swf</file>
+      <x>-179.0138601,258.9861399</x>
+      <y>196.5978544,209.5478544</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP81" index="39">
+      <file>common.ncc_htree.swf</file>
+      <x>-39.5208717,398.4791283</x>
+      <y>196.5978544,209.5478544</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP82" index="40">
+      <file>common.ncc_htree.swf</file>
+      <x>99.9033334,537.9033334</x>
+      <y>196.5978544,209.5478544</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="41">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="0" target="PROP6" type="MotionPath" atype="Prop" direction="2" section="6" timing="0" duration="24" delay="0">null</aTran>
+      <aTran id="1" target="PROP9" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="2" target="PROP10" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="3" target="PROP11" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="4" target="PROP12" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="5" target="PROP18" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="6" target="PROP19" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="7" target="PROP20" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="8" target="PROP21" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="9" target="PROP22" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="10" target="PROP33" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="11" target="PROP34" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="12" target="PROP35" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="13" target="PROP36" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="14" target="PROP37" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="15" target="PROP39" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="16" target="PROP40" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="17" target="PROP41" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="18" target="PROP42" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="19" target="PROP53" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="20" target="PROP54" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="21" target="PROP55" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="22" target="PROP56" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="23" target="PROP57" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="24" target="PROP59" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="25" target="PROP60" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="26" target="PROP61" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="27" target="PROP62" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="28" target="PROP73" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="29" target="PROP74" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="30" target="PROP75" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="31" target="PROP76" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="32" target="PROP77" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="33" target="PROP79" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="34" target="PROP80" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="35" target="PROP81" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="36" target="PROP82" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE1" adelay="60" lock="N" index="1" color="16777215" guid="EE2B8AB5-54CA-25F2-317D-A5EF60822CFD">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_sea_BG7" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorA">632273</color>
+      <color r="colorB">8370961</color>
+    </bg>
+    <prop id="PROP12" index="1">
+      <file>common.ncc_htree.swf</file>
+      <x>1031.55</x>
+      <y>217.3</y>
+      <xscale>0.4221982</xscale>
+      <yscale>0.4221982</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP18" index="2">
+      <file>common.ncc_htree.swf</file>
+      <x>156.55,688.55</x>
+      <y>210.625,216.85</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP19" index="3">
+      <file>common.ncc_htree.swf</file>
+      <x>235.75,767.75</x>
+      <y>210.625,216.85</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP20" index="4">
+      <file>common.ncc_htree.swf</file>
+      <x>321.7,853.7</x>
+      <y>210.75,216.975</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP21" index="5">
+      <file>common.ncc_htree.swf</file>
+      <x>423.1,955.1</x>
+      <y>210.75,216.975</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP22" index="6">
+      <file>common.ncc_htree.swf</file>
+      <x>524.45,1056.45</x>
+      <y>210.75,216.975</y>
+      <xscale>0.4221982,0.4221982</xscale>
+      <yscale>0.4221982,0.4221982</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP36" index="7">
+      <file>common.ncc_htree.swf</file>
+      <x>1035.1625</x>
+      <y>217.9513889</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP37" index="8">
+      <file>common.ncc_htree.swf</file>
+      <x>1156.2194444</x>
+      <y>217.9513889</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP38" index="9">
+      <file>common.ncc_htree.swf</file>
+      <x>-326.9194444</x>
+      <y>197.0284722</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP39" index="10">
+      <file>common.ncc_htree.swf</file>
+      <x>205.6805556,737.6805556</x>
+      <y>209.9784722,216.2034722</y>
+      <xscale>0.5042923,0.5042923</xscale>
+      <yscale>0.5042923,0.5042923</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP40" index="11">
+      <file>common.ncc_htree.swf</file>
+      <x>308.3430556,840.3430556</x>
+      <y>210.1277778,216.3527778</y>
+      <xscale>0.5042923,0.5042923</xscale>
+      <yscale>0.5042923,0.5042923</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP41" index="12">
+      <file>common.ncc_htree.swf</file>
+      <x>429.4597222,961.4597222</x>
+      <y>210.1277778,216.3527778</y>
+      <xscale>0.5042923,0.5042923</xscale>
+      <yscale>0.5042923,0.5042923</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP42" index="13">
+      <file>common.ncc_htree.swf</file>
+      <x>550.5166667,1082.5166667</x>
+      <y>210.1277778,216.3527778</y>
+      <xscale>0.5042923,0.5042923</xscale>
+      <yscale>0.5042923,0.5042923</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP55" index="14">
+      <file>common.ncc_htree.swf</file>
+      <x>1028.5886494</x>
+      <y>221.8584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP56" index="15">
+      <file>common.ncc_htree.swf</file>
+      <x>1168.0816379</x>
+      <y>221.8584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP57" index="16">
+      <file>common.ncc_htree.swf</file>
+      <x>1307.5058429</x>
+      <y>221.8584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP58" index="17">
+      <file>common.ncc_htree.swf</file>
+      <x>-334.2058429</x>
+      <y>199.7258956</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP59" index="18">
+      <file>common.ncc_htree.swf</file>
+      <x>212.7472606,744.7472606</x>
+      <y>212.6758956,218.9008956</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP60" index="19">
+      <file>common.ncc_htree.swf</file>
+      <x>330.9861399,862.9861399</x>
+      <y>212.8478544,219.0728544</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP61" index="20">
+      <file>common.ncc_htree.swf</file>
+      <x>470.4791283,1002.4791283</x>
+      <y>212.8478544,219.0728544</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP76" index="21">
+      <file>common.ncc_htree.swf</file>
+      <x>1096.0816379</x>
+      <y>218.5584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP77" index="22">
+      <file>common.ncc_htree.swf</file>
+      <x>1235.5058429</x>
+      <y>218.5584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP78" index="23">
+      <file>common.ncc_htree.swf</file>
+      <x>-406.2058429</x>
+      <y>196.4258956</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP79" index="24">
+      <file>common.ncc_htree.swf</file>
+      <x>140.7472606,672.7472606</x>
+      <y>209.3758956,215.6008956</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP80" index="25">
+      <file>common.ncc_htree.swf</file>
+      <x>258.9861399,790.9861399</x>
+      <y>209.5478544,215.7728544</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP81" index="26">
+      <file>common.ncc_htree.swf</file>
+      <x>398.4791283,930.4791283</x>
+      <y>209.5478544,215.7728544</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <prop id="PROP82" index="27">
+      <file>common.ncc_htree.swf</file>
+      <x>537.9033334,1069.9033334</x>
+      <y>209.5478544,215.7728544</y>
+      <xscale>0.5808056,0.5808056</xscale>
+      <yscale>0.5808056,0.5808056</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="28">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="37" target="PROP18" type="MotionPath" atype="Prop" direction="2" section="6" timing="0" duration="24" delay="0">null</aTran>
+      <aTran id="38" target="PROP19" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="39" target="PROP20" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="40" target="PROP21" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="41" target="PROP22" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="42" target="PROP39" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="43" target="PROP40" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="44" target="PROP41" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="45" target="PROP42" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="46" target="PROP59" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="47" target="PROP60" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="48" target="PROP61" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="49" target="PROP79" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="50" target="PROP80" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="51" target="PROP81" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+      <aTran id="52" target="PROP82" type="MotionPath" atype="Prop" direction="2" section="6" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE2" adelay="60" lock="N" index="2" color="16777215" guid="A40DD91B-F9C4-C9D3-48A5-31FED7B1F6E7">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_sea_BG7" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorA">632273</color>
+      <color r="colorB">8370961</color>
+    </bg>
+    <prop id="PROP12" index="1">
+      <file>common.ncc_htree.swf</file>
+      <x>1031.55</x>
+      <y>217.3</y>
+      <xscale>0.4221982</xscale>
+      <yscale>0.4221982</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP18" index="2">
+      <file>common.ncc_htree.swf</file>
+      <x>688.55</x>
+      <y>216.85</y>
+      <xscale>0.4221982</xscale>
+      <yscale>0.4221982</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP19" index="3">
+      <file>common.ncc_htree.swf</file>
+      <x>767.75</x>
+      <y>216.85</y>
+      <xscale>0.4221982</xscale>
+      <yscale>0.4221982</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP20" index="4">
+      <file>common.ncc_htree.swf</file>
+      <x>853.7</x>
+      <y>216.975</y>
+      <xscale>0.4221982</xscale>
+      <yscale>0.4221982</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP21" index="5">
+      <file>common.ncc_htree.swf</file>
+      <x>955.1</x>
+      <y>216.975</y>
+      <xscale>0.4221982</xscale>
+      <yscale>0.4221982</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP22" index="6">
+      <file>common.ncc_htree.swf</file>
+      <x>1056.45</x>
+      <y>216.975</y>
+      <xscale>0.4221982</xscale>
+      <yscale>0.4221982</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP36" index="7">
+      <file>common.ncc_htree.swf</file>
+      <x>1035.1625</x>
+      <y>217.9513889</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP37" index="8">
+      <file>common.ncc_htree.swf</file>
+      <x>1156.2194444</x>
+      <y>217.9513889</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP38" index="9">
+      <file>common.ncc_htree.swf</file>
+      <x>-326.9194444</x>
+      <y>197.0284722</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP39" index="10">
+      <file>common.ncc_htree.swf</file>
+      <x>737.6805556</x>
+      <y>216.2034722</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP40" index="11">
+      <file>common.ncc_htree.swf</file>
+      <x>840.3430556</x>
+      <y>216.3527778</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP41" index="12">
+      <file>common.ncc_htree.swf</file>
+      <x>961.4597222</x>
+      <y>216.3527778</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP42" index="13">
+      <file>common.ncc_htree.swf</file>
+      <x>1082.5166667</x>
+      <y>216.3527778</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="14">
+      <file>common.ncc_htree.swf</file>
+      <x>1028.5886494</x>
+      <y>221.8584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP56" index="15">
+      <file>common.ncc_htree.swf</file>
+      <x>1168.0816379</x>
+      <y>221.8584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP57" index="16">
+      <file>common.ncc_htree.swf</file>
+      <x>1307.5058429</x>
+      <y>221.8584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP58" index="17">
+      <file>common.ncc_htree.swf</file>
+      <x>-334.2058429</x>
+      <y>199.7258956</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP59" index="18">
+      <file>common.ncc_htree.swf</file>
+      <x>744.7472606</x>
+      <y>218.9008956</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP60" index="19">
+      <file>common.ncc_htree.swf</file>
+      <x>862.9861399</x>
+      <y>219.0728544</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP61" index="20">
+      <file>common.ncc_htree.swf</file>
+      <x>1002.4791283</x>
+      <y>219.0728544</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP76" index="21">
+      <file>common.ncc_htree.swf</file>
+      <x>1096.0816379</x>
+      <y>218.5584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP77" index="22">
+      <file>common.ncc_htree.swf</file>
+      <x>1235.5058429</x>
+      <y>218.5584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP78" index="23">
+      <file>common.ncc_htree.swf</file>
+      <x>-406.2058429</x>
+      <y>196.4258956</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP79" index="24">
+      <file>common.ncc_htree.swf</file>
+      <x>672.7472606</x>
+      <y>215.6008956</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP80" index="25">
+      <file>common.ncc_htree.swf</file>
+      <x>790.9861399</x>
+      <y>215.7728544</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP81" index="26">
+      <file>common.ncc_htree.swf</file>
+      <x>930.4791283</x>
+      <y>215.7728544</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP82" index="27">
+      <file>common.ncc_htree.swf</file>
+      <x>1069.9033334</x>
+      <y>215.7728544</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP309" index="28">
+      <file>common.square01.swf</file>
+      <x>-72.2375048,554.15</x>
+      <y>360,378</y>
+      <xscale>3.5001934,16.9176015</xscale>
+      <yscale>3.5001934,3.5001934</yscale>
+      <face>1,1</face>
+      <rotation>0,0</rotation>
+      <color r="ccColorA">632273</color>
+      <assetMotion ver="2"/>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="29">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+    <aTranList>
+      <aTran id="53" target="PROP309" type="MotionPath" atype="Prop" direction="2" section="5" timing="3" duration="24" delay="0">null</aTran>
+    </aTranList>
+  </scene>
+  <scene id="SCENE3" adelay="60" lock="N" index="3" color="16777215" guid="EAFC7F0E-CCC4-FE01-9238-12BDBD853520">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_ncc_sea_BG7" index="0">
+      <file>common.ncc_low.swf</file>
+      <color r="colorA">632273</color>
+      <color r="colorB">8370961</color>
+    </bg>
+    <char id="AVATOR361" index="28" raceCode="1">
+      <action face="1" motionface="1">ugc.0000020.stand2.xml</action>
+      <x>317.0289683</x>
+      <y>217.777381</y>
+      <xscale>0.4920635</xscale>
+      <yscale>0.4920635</yscale>
+      <rotation>0</rotation>
+    </char>
+    <prop id="PROP12" index="1">
+      <file>common.ncc_htree.swf</file>
+      <x>1031.55</x>
+      <y>217.3</y>
+      <xscale>0.4221982</xscale>
+      <yscale>0.4221982</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP18" index="2">
+      <file>common.ncc_htree.swf</file>
+      <x>688.55</x>
+      <y>216.85</y>
+      <xscale>0.4221982</xscale>
+      <yscale>0.4221982</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP19" index="3">
+      <file>common.ncc_htree.swf</file>
+      <x>767.75</x>
+      <y>216.85</y>
+      <xscale>0.4221982</xscale>
+      <yscale>0.4221982</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP20" index="4">
+      <file>common.ncc_htree.swf</file>
+      <x>853.7</x>
+      <y>216.975</y>
+      <xscale>0.4221982</xscale>
+      <yscale>0.4221982</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP21" index="5">
+      <file>common.ncc_htree.swf</file>
+      <x>955.1</x>
+      <y>216.975</y>
+      <xscale>0.4221982</xscale>
+      <yscale>0.4221982</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP22" index="6">
+      <file>common.ncc_htree.swf</file>
+      <x>1056.45</x>
+      <y>216.975</y>
+      <xscale>0.4221982</xscale>
+      <yscale>0.4221982</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP36" index="7">
+      <file>common.ncc_htree.swf</file>
+      <x>1035.1625</x>
+      <y>217.9513889</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP37" index="8">
+      <file>common.ncc_htree.swf</file>
+      <x>1156.2194444</x>
+      <y>217.9513889</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP38" index="9">
+      <file>common.ncc_htree.swf</file>
+      <x>-326.9194444</x>
+      <y>197.0284722</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP39" index="10">
+      <file>common.ncc_htree.swf</file>
+      <x>737.6805556</x>
+      <y>216.2034722</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP40" index="11">
+      <file>common.ncc_htree.swf</file>
+      <x>840.3430556</x>
+      <y>216.3527778</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP41" index="12">
+      <file>common.ncc_htree.swf</file>
+      <x>961.4597222</x>
+      <y>216.3527778</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP42" index="13">
+      <file>common.ncc_htree.swf</file>
+      <x>1082.5166667</x>
+      <y>216.3527778</y>
+      <xscale>0.5042923</xscale>
+      <yscale>0.5042923</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP55" index="14">
+      <file>common.ncc_htree.swf</file>
+      <x>1028.5886494</x>
+      <y>221.8584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP56" index="15">
+      <file>common.ncc_htree.swf</file>
+      <x>1168.0816379</x>
+      <y>221.8584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP57" index="16">
+      <file>common.ncc_htree.swf</file>
+      <x>1307.5058429</x>
+      <y>221.8584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP58" index="17">
+      <file>common.ncc_htree.swf</file>
+      <x>-334.2058429</x>
+      <y>199.7258956</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP59" index="18">
+      <file>common.ncc_htree.swf</file>
+      <x>744.7472606</x>
+      <y>218.9008956</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP60" index="19">
+      <file>common.ncc_htree.swf</file>
+      <x>862.9861399</x>
+      <y>219.0728544</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP61" index="20">
+      <file>common.ncc_htree.swf</file>
+      <x>1002.4791283</x>
+      <y>219.0728544</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP76" index="21">
+      <file>common.ncc_htree.swf</file>
+      <x>1096.0816379</x>
+      <y>218.5584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP77" index="22">
+      <file>common.ncc_htree.swf</file>
+      <x>1235.5058429</x>
+      <y>218.5584962</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP78" index="23">
+      <file>common.ncc_htree.swf</file>
+      <x>-406.2058429</x>
+      <y>196.4258956</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP79" index="24">
+      <file>common.ncc_htree.swf</file>
+      <x>672.7472606</x>
+      <y>215.6008956</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP80" index="25">
+      <file>common.ncc_htree.swf</file>
+      <x>790.9861399</x>
+      <y>215.7728544</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP81" index="26">
+      <file>common.ncc_htree.swf</file>
+      <x>930.4791283</x>
+      <y>215.7728544</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="PROP82" index="27">
+      <file>common.ncc_htree.swf</file>
+      <x>1069.9033334</x>
+      <y>215.7728544</y>
+      <xscale>0.5808056</xscale>
+      <yscale>0.5808056</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="29">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>47</x>
+      <y>24</y>
+      <width>550</width>
+      <height>354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+</film>

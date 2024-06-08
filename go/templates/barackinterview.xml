@@ -1,0 +1,583 @@
+<film copyable="0" duration="13.0" published="0" pshare="0" isWide="1">
+  <meta>
+    <title><![CDATA[quicktemp.barackinterview]]></title>
+    <tag><![CDATA[]]></tag>
+    <hiddenTag><![CDATA[politics2,mitt_romney,barack_obama,gary_johnson02]]></hiddenTag>
+    <desc><![CDATA[]]></desc>
+    <mver><![CDATA[4]]></mver>
+    <studio>d7446f28669693f5b7a35d41831e43c3662c48bf</studio>
+    <thumbnail index="0"/>
+    <palette>
+      <color value="333333"/>
+      <color value="999999"/>
+      <color value="fbfbfb"/>
+      <color value="669999"/>
+      <color value="55bbaa"/>
+      <color value="7fbb11"/>
+      <color value="15709b"/>
+      <color value="9a5d1"/>
+      <color value="6ab8d6"/>
+      <color value="da2021"/>
+      <color value="fecd31"/>
+      <color value="28c6c1"/>
+      <color value="37444f"/>
+    </palette>
+  </meta>
+  <scene id="SCENE0" adelay="99" lock="N" index="0" color="16777215" guid="DF9341D3-3188-3F0A-2FDF-CCD3D0A8B133" combgId="politics2.cbg_talkshow01">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_talkshow01_BG42" index="0">
+      <file>politics2.talk_show01_bg.swf</file>
+    </bg>
+    <char id="AVATOR8" index="1" raceCode="2">
+      <action face="1" motionface="1">politics2.mitt_romney.stand_side.swf</action>
+      <x>488.4709981</x>
+      <y>192.7154112</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <dcsn>12956</dcsn>
+      <color r="ccSkinColor">14862253</color>
+    </char>
+    <char id="AVATOR9" index="4" raceCode="2">
+      <action face="-1" motionface="1">politics2.barack_obama.sit.swf</action>
+      <x>249.5083333</x>
+      <y>202</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <dcsn>13420</dcsn>
+      <color r="ccSkinColor">6706500</color>
+    </char>
+    <char id="AVATOR11" index="5" raceCode="2">
+      <action face="-1" motionface="1">politics2.gary_johnson02.sit_side.swf</action>
+      <x>152.075</x>
+      <y>200.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <dcsn>14607</dcsn>
+      <color r="ccSkinColor">14794395</color>
+    </char>
+    <prop id="cbg_talkshow01_PROP17" index="3" attached="Y">
+      <file>politics2.msp_stage_table.msp_stage_table_talk_show_table.swf</file>
+      <x>510.6</x>
+      <y>271.1</y>
+      <xscale>1.17</xscale>
+      <yscale>1.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_talkshow01_PROP16" index="2" attached="Y">
+      <file>politics2.msp_stage_sofa.msp_stage_sofa_talk_show_sofa.swf</file>
+      <x>111.94625</x>
+      <y>271.10375</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="6">
+      <effect x="0" y="0" w="550" h="310" rotate="0" id="cut" type="ZOOM" isCut="false" isPan="true"/>
+      <x>47,93.35</x>
+      <y>24,49.3389091</y>
+      <width>550,459.3</width>
+      <height>354,295.6221818</height>
+      <speech>0</speech>
+    </effectAsset>
+    <trans id="GoTrans" index="7">
+      <fx dur="36" type="anifire.FadeDark.out" ease="null" param="0"/>
+    </trans>
+  </scene>
+  <scene id="SCENE1" adelay="18" lock="Y" index="1" color="16777215" guid="6389DF93-67D5-DA81-2C5B-3DE5002D98C3">
+    <bg id="cbg_talkshow01_BG42" index="0">
+      <file>politics2.talk_show01_bg.swf</file>
+    </bg>
+    <char id="AVATOR8" index="1" raceCode="2">
+      <action face="1" motionface="1">politics2.mitt_romney.stand_side.swf</action>
+      <x>488.4709981</x>
+      <y>192.7154112</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">14862253</color>
+    </char>
+    <char id="AVATOR9" index="4" raceCode="2">
+      <action face="-1" motionface="1">politics2.barack_obama.sit.swf</action>
+      <x>249.5083333</x>
+      <y>202</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">6706500</color>
+    </char>
+    <char id="AVATOR11" index="5" raceCode="2">
+      <action face="-1" motionface="1">politics2.gary_johnson02.sit_side.swf</action>
+      <x>152.075</x>
+      <y>200.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">14794395</color>
+    </char>
+    <prop id="cbg_talkshow01_PROP16" index="2" attached="Y">
+      <file>politics2.msp_stage_sofa.msp_stage_sofa_talk_show_sofa.swf</file>
+      <x>111.94625</x>
+      <y>271.10375</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_talkshow01_PROP17" index="3" attached="Y">
+      <file>politics2.msp_stage_table.msp_stage_table_talk_show_table.swf</file>
+      <x>510.6</x>
+      <y>271.1</y>
+      <xscale>1.17</xscale>
+      <yscale>1.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="6">
+      <effect x="0" y="0" w="260.8" h="146.9963636" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>332.35</x>
+      <y>78.7198182</y>
+      <width>260.8</width>
+      <height>167.8603636</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE2" adelay="18" lock="Y" index="2" color="16777215" guid="1AF1D376-863F-43F5-EC3C-41991582B0AD">
+    <bg id="cbg_talkshow01_BG42" index="0">
+      <file>politics2.talk_show01_bg.swf</file>
+    </bg>
+    <char id="AVATOR8" index="1" raceCode="2">
+      <action face="1" motionface="1">politics2.mitt_romney.stand_side.swf</action>
+      <x>488.4709981</x>
+      <y>192.7154112</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">14862253</color>
+    </char>
+    <char id="AVATOR9" index="4" raceCode="2">
+      <action face="-1" motionface="1">politics2.barack_obama.sit.swf</action>
+      <x>249.5083333</x>
+      <y>202</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">6706500</color>
+    </char>
+    <char id="AVATOR11" index="5" raceCode="2">
+      <action face="-1" motionface="1">politics2.gary_johnson02.sit_side.swf</action>
+      <x>152.075</x>
+      <y>200.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">14794395</color>
+    </char>
+    <prop id="cbg_talkshow01_PROP16" index="2" attached="Y">
+      <file>politics2.msp_stage_sofa.msp_stage_sofa_talk_show_sofa.swf</file>
+      <x>111.94625</x>
+      <y>271.10375</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_talkshow01_PROP17" index="3" attached="Y">
+      <file>politics2.msp_stage_table.msp_stage_table_talk_show_table.swf</file>
+      <x>510.6</x>
+      <y>271.1</y>
+      <xscale>1.17</xscale>
+      <yscale>1.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="6">
+      <effect x="0" y="0" w="227.8064516" h="128.4" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>369.1935484</x>
+      <y>86.5377419</y>
+      <width>227.8064516</width>
+      <height>146.6245161</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE3" adelay="24" lock="Y" index="3" color="16777215" guid="7BF0DABC-99DB-399D-4A75-06079EFD7989">
+    <bg id="cbg_talkshow01_BG42" index="0">
+      <file>politics2.talk_show01_bg.swf</file>
+    </bg>
+    <char id="AVATOR8" index="1" raceCode="2">
+      <action face="1" motionface="1">politics2.mitt_romney.stand_side.swf</action>
+      <x>488.4709981</x>
+      <y>192.7154112</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">14862253</color>
+    </char>
+    <char id="AVATOR9" index="4" raceCode="2">
+      <action face="-1" motionface="1">politics2.barack_obama.sit.swf</action>
+      <x>249.5083333</x>
+      <y>202</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">6706500</color>
+    </char>
+    <char id="AVATOR11" index="5" raceCode="2">
+      <action face="-1" motionface="1">politics2.gary_johnson02.sit_side.swf</action>
+      <x>152.075</x>
+      <y>200.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">14794395</color>
+    </char>
+    <prop id="cbg_talkshow01_PROP16" index="2" attached="Y">
+      <file>politics2.msp_stage_sofa.msp_stage_sofa_talk_show_sofa.swf</file>
+      <x>111.94625</x>
+      <y>271.10375</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_talkshow01_PROP17" index="3" attached="Y">
+      <file>politics2.msp_stage_table.msp_stage_table_talk_show_table.swf</file>
+      <x>510.6</x>
+      <y>271.1</y>
+      <xscale>1.17</xscale>
+      <yscale>1.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="6">
+      <effect x="0" y="0" w="148.5" h="83.7" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>423.8177419</x>
+      <y>101.61</y>
+      <width>148.5</width>
+      <height>95.58</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE4" adelay="18" lock="Y" index="4" color="16777215" guid="02B679B2-CF16-FBDB-624B-80B4A4FF6A5F">
+    <bg id="cbg_talkshow01_BG42" index="0">
+      <file>politics2.talk_show01_bg.swf</file>
+    </bg>
+    <char id="AVATOR8" index="1" raceCode="2">
+      <action face="1" motionface="1">politics2.mitt_romney.stand_side.swf</action>
+      <x>488.4709981</x>
+      <y>192.7154112</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">14862253</color>
+    </char>
+    <char id="AVATOR9" index="4" raceCode="2">
+      <action face="-1" motionface="1">politics2.barack_obama.sit.swf</action>
+      <x>249.5083333</x>
+      <y>202</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">6706500</color>
+    </char>
+    <char id="AVATOR11" index="5" raceCode="2">
+      <action face="-1" motionface="1">politics2.gary_johnson02.sit_side.swf</action>
+      <x>152.075</x>
+      <y>200.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">14794395</color>
+    </char>
+    <prop id="cbg_talkshow01_PROP16" index="2" attached="Y">
+      <file>politics2.msp_stage_sofa.msp_stage_sofa_talk_show_sofa.swf</file>
+      <x>111.94625</x>
+      <y>271.10375</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_talkshow01_PROP17" index="3" attached="Y">
+      <file>politics2.msp_stage_table.msp_stage_table_talk_show_table.swf</file>
+      <x>510.6</x>
+      <y>271.1</y>
+      <xscale>1.17</xscale>
+      <yscale>1.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="6">
+      <effect x="0" y="0" w="276.3" h="155.7327273" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>92.3677419</x>
+      <y>94.5316364</y>
+      <width>276.3</width>
+      <height>177.8367273</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE5" adelay="18" lock="Y" index="5" color="16777215" guid="7D9FF01C-5476-E999-9034-30454E8FEBA7">
+    <bg id="cbg_talkshow01_BG42" index="0">
+      <file>politics2.talk_show01_bg.swf</file>
+    </bg>
+    <char id="AVATOR8" index="1" raceCode="2">
+      <action face="1" motionface="1">politics2.mitt_romney.stand_side.swf</action>
+      <x>488.4709981</x>
+      <y>192.7154112</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">14862253</color>
+    </char>
+    <char id="AVATOR9" index="4" raceCode="2">
+      <action face="-1" motionface="1">politics2.barack_obama.sit.swf</action>
+      <x>249.5083333</x>
+      <y>202</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">6706500</color>
+    </char>
+    <char id="AVATOR11" index="5" raceCode="2">
+      <action face="-1" motionface="1">politics2.gary_johnson02.sit_side.swf</action>
+      <x>152.075</x>
+      <y>200.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">14794395</color>
+    </char>
+    <prop id="cbg_talkshow01_PROP16" index="2" attached="Y">
+      <file>politics2.msp_stage_sofa.msp_stage_sofa_talk_show_sofa.swf</file>
+      <x>111.94625</x>
+      <y>271.10375</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_talkshow01_PROP17" index="3" attached="Y">
+      <file>politics2.msp_stage_table.msp_stage_table_talk_show_table.swf</file>
+      <x>510.6</x>
+      <y>271.1</y>
+      <xscale>1.17</xscale>
+      <yscale>1.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="6">
+      <effect x="0" y="0" w="214.1451613" h="120.7" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>123.4451613</x>
+      <y>114.5341935</y>
+      <width>214.1451613</width>
+      <height>137.8316129</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE6" adelay="18" lock="Y" index="6" color="16777215" guid="0F98F6FF-9F5A-F575-7696-8D71D17AF52C">
+    <bg id="cbg_talkshow01_BG42" index="0">
+      <file>politics2.talk_show01_bg.swf</file>
+    </bg>
+    <char id="AVATOR8" index="1" raceCode="2">
+      <action face="1" motionface="1">politics2.mitt_romney.stand_side.swf</action>
+      <x>488.4709981</x>
+      <y>192.7154112</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">14862253</color>
+    </char>
+    <char id="AVATOR9" index="4" raceCode="2">
+      <action face="-1" motionface="1">politics2.barack_obama.sit.swf</action>
+      <x>249.5083333</x>
+      <y>202</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">6706500</color>
+    </char>
+    <char id="AVATOR11" index="5" raceCode="2">
+      <action face="-1" motionface="1">politics2.gary_johnson02.sit_side.swf</action>
+      <x>152.075</x>
+      <y>200.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">14794395</color>
+    </char>
+    <prop id="cbg_talkshow01_PROP16" index="2" attached="Y">
+      <file>politics2.msp_stage_sofa.msp_stage_sofa_talk_show_sofa.swf</file>
+      <x>111.94625</x>
+      <y>271.10375</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_talkshow01_PROP17" index="3" attached="Y">
+      <file>politics2.msp_stage_table.msp_stage_table_talk_show_table.swf</file>
+      <x>510.6</x>
+      <y>271.1</y>
+      <xscale>1.17</xscale>
+      <yscale>1.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="6">
+      <effect x="0" y="0" w="214.1451613" h="120.7" rotate="0" id="cut" type="ZOOM" isCut="true" isPan="false"/>
+      <x>123.4451613</x>
+      <y>114.5341935</y>
+      <width>214.1451613</width>
+      <height>137.8316129</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <scene id="SCENE7" adelay="99" lock="N" index="7" color="16777215" guid="589B4145-68D6-75F4-1F6A-50C722662354">
+    <durationSetting countMinimum="1" countTransition="1" countAction="1" countBubble="1" countSpeech="1"/>
+    <bg id="cbg_talkshow01_BG42" index="0">
+      <file>politics2.talk_show01_bg.swf</file>
+    </bg>
+    <char id="AVATOR8" index="1" raceCode="2">
+      <action face="1" motionface="1">politics2.mitt_romney.stand_side.swf</action>
+      <x>488.4709981</x>
+      <y>192.7154112</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">14862253</color>
+    </char>
+    <char id="AVATOR9" index="4" raceCode="2">
+      <action face="-1" motionface="1">politics2.barack_obama.sit.swf</action>
+      <x>249.5083333</x>
+      <y>202</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">6706500</color>
+    </char>
+    <char id="AVATOR11" index="5" raceCode="2">
+      <action face="-1" motionface="1">politics2.gary_johnson02.sit_side.swf</action>
+      <x>152.075</x>
+      <y>200.45</y>
+      <xscale>1</xscale>
+      <yscale>1</yscale>
+      <rotation>0</rotation>
+      <color r="ccSkinColor" oc="0x0">14794395</color>
+    </char>
+    <prop id="cbg_talkshow01_PROP16" index="2" attached="Y">
+      <file>politics2.msp_stage_sofa.msp_stage_sofa_talk_show_sofa.swf</file>
+      <x>111.94625</x>
+      <y>271.10375</y>
+      <xscale>1.15</xscale>
+      <yscale>1.15</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="cbg_talkshow01_PROP17" index="3" attached="Y">
+      <file>politics2.msp_stage_table.msp_stage_table_talk_show_table.swf</file>
+      <x>510.6</x>
+      <y>271.1</y>
+      <xscale>1.17</xscale>
+      <yscale>1.17</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <effectAsset id="EFFECT0" themecode="common" index="6">
+      <effect x="0" y="0" w="400.9" h="225.9618182" rotate="0" id="cut" type="ZOOM" isCut="false" isPan="true"/>
+      <x>121.5177419,47</x>
+      <y>72.8830909,24</y>
+      <width>400.9,550</width>
+      <height>258.0338182,354</height>
+      <speech>0</speech>
+    </effectAsset>
+  </scene>
+  <sound id="SOUND0" index="0" track="0" vol="0.5" tts="0">
+    <sfile>common.midi_music_loop_blues.mp3</sfile>
+    <start>1</start>
+    <stop>657</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+  </sound>
+  <sound id="SOUND2" index="0" track="0" vol="1" tts="1">
+    <sfile>ugc.Sijt*K4t9V6V-tts.mp3</sfile>
+    <start>100</start>
+    <stop>111</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[1]]></text>
+      <voice><![CDATA[joey]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND4" index="1" track="0" vol="1" tts="1">
+    <sfile>ugc.j@q2BgCACcGh-tts.mp3</sfile>
+    <start>118</start>
+    <stop>126</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[2]]></text>
+      <voice><![CDATA[joey]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND7" index="2" track="0" vol="1" tts="1">
+    <sfile>ugc.bqrz29vEHeN!-tts.mp3</sfile>
+    <start>136</start>
+    <stop>153</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[3]]></text>
+      <voice><![CDATA[joey1]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND9" index="3" track="0" vol="1" tts="1">
+    <sfile>ugc.ln!KS36qa&amp;vZ-tts.mp3</sfile>
+    <start>160</start>
+    <stop>171</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[1]]></text>
+      <voice><![CDATA[joey]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND11" index="4" track="0" vol="1" tts="1">
+    <sfile>ugc.r!9yJcpMawLN-tts.mp3</sfile>
+    <start>178</start>
+    <stop>186</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[2]]></text>
+      <voice><![CDATA[joey]]></voice>
+    </ttsdata>
+  </sound>
+  <sound id="SOUND13" index="5" track="0" vol="1" tts="1">
+    <sfile>ugc.GqG&amp;v!wTq(6S-tts.mp3</sfile>
+    <start>196</start>
+    <stop>210</stop>
+    <fadein duration="0" vol="0"/>
+    <fadeout duration="0" vol="0"/>
+    <ttsdata>
+      <type><![CDATA[tts]]></type>
+      <text><![CDATA[3]]></text>
+      <voice><![CDATA[joey]]></voice>
+    </ttsdata>
+  </sound>
+  <linkage>SOUND2,~~~AVATOR8,SCENE1~~~</linkage>
+  <linkage>SOUND4,~~~AVATOR8,SCENE2~~~</linkage>
+  <linkage>SOUND7,~~~AVATOR8,SCENE3~~~</linkage>
+  <linkage>SOUND9,~~~AVATOR9,SCENE4~~~</linkage>
+  <linkage>SOUND11,~~~AVATOR9,SCENE5~~~</linkage>
+  <linkage>SOUND13,~~~AVATOR9,SCENE6~~~</linkage>
+<thumb>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</thumb></film>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list version="1.0">
+	<fvm_meta theme_code="" is_biz="0" />
+	<theme id="action" name="Lil' Peepz" thumb="" cc_theme_id="action" />
+	<theme id="chibi" name="Chibi Peepz" thumb="" cc_theme_id="chibi" />
+	<theme id="space" name="Space Peepz" thumb="" cc_theme_id="space" />
+	<word>ALLTHEPEEPZ!</word>
+	<whiteword />
+	<excludeAssetIDs />
+	<points money="303" sharing="0" />
+</list>

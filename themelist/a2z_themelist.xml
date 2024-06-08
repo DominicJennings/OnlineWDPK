@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list version="1.0">
+	<fvm_meta theme_code="" is_biz="0" />
+	<theme id="anime" name="Anime" thumb="" cc_theme_id="anime" />
+  <theme id="akon" name="AKON" />
+  <theme id="ben10" name="Ben 10" />
+	<theme id="botdf" name="Blood on the Dance Floor" cc_theme_id="botdf" />
+  <theme id="common" name="Common" thumb="matchboy-stand.swf" cc_theme_id="common"/>
+  <theme id="chowder" name="Chowder" enable="N" />
+  <theme id="custom" name="Comedy World" thumb="" cc_theme_id="custom" />
+	<theme id="retro" name="Cartoon Classics" thumb="ann-stand.swf" />
+  <theme id="chibi" name="Chibi Peepz" thumb="" cc_theme_id="chibi" />
+  <theme id="ninja" name="Chibi Ninjas" thumb="" cc_theme_id="ninja" />
+  <theme id="domo" name="Domo" enable="Y" />
+  <!-- work in progress themelist in alphabetical order -->
+	<word/>
+	<whiteword />
+	<excludeAssetIDs />
+	<points money="0" sharing="0" />
+</list>

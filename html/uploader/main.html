@@ -1,0 +1,58 @@
+
+<html>
+  <head>
+    <title>GoWDPK - Wrapper Chars & Movie Transfer</title>
+    <style>
+      html {
+        font-family: trebuchet MS;
+        background-image: url("https://i.pinimg.com/originals/c9/e1/bd/c9e1bd9b5490e382bd53bbe895cc0880.png");
+  background-repeat: repeat-y repeat-x;
+        
+      }
+      .community-upload {
+        margin: auto;
+        border: solid lightcoral;
+        padding: 10px;
+        height: 600px;
+        width: 900px;
+        background-color: indianred;
+        color: white;
+      }
+      tr {
+        background-color: orange;
+        color: white;
+        align: center;
+        padding: 130px;
+   
+      }
+      td {
+        background-color: silver;
+        color: white;
+        align: center;
+        padding: 130px;
+
+      }
+    </style>
+    <script src="/js/jquery.js"></script>
+    <script src="/js/studio.js"></script>
+  </head>
+  <body>
+    <div class="community-upload">
+      <h2>Wrapper Chars and Movie Transfer</h2>
+      
+    <center>
+      <form enctype='multipart/form-data' action='/upload_movie' method='post'>
+    <input id='movie' type="file" name='import' accept=".zip,.xml" />
+        <br>
+        <input id='submit-movie' type=submit name="import-submit"/>
+        <label>Publish Movie/Char? *this feature isn't functional until we get user systems out of the way*</label>
+        <select name="published" id="movpublish">
+  <option value="1">Public</option>
+  <option value="0">Private</option>
+</select>
+  </form>
+    </center>
+
+    </div>
+  </body>
+</html>

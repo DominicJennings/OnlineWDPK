@@ -1,0 +1,88 @@
+<html>
+  <head>
+    <title>Change what happens in the GoAnimate Forest - GoWDPK</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <!--note to joseph: should we fork this repl to test out the supabase saving system -->
+    <meta name="description" content="GoWDPK is an experimental instance by Jerry2009, where he just messes around with GoAnimate Wrapper.">
+    <meta name="keywords" content="wrapper, ga, gowdpk, comedy world, animations, free animation, goanimate revival, how to get comedy world, family guy goanimate, ga, vyond legacy, vyond old lvm, how to get comedy world back on vyond, wrapper no download">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script src="https://josephanimate2021.github.io/lvm-static/api/jquery/index.js"></script>
+    <script src="https://replit.com/public/js/repl-auth-v2.js"></script>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body style="background-image: url('forest.jpg');">
+    <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">GoWDPK</a>
+        </div>
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="/" onclick="confirm('Are you sure that you want to leave this page? once you do so, all of your changes will be lost.')">Home</a></li>
+          <li><a href="javascript:;" onclick="checkLoginStatus('create-video')">Create</a></li>
+          <li><a href="javascript:;" onclick="checkLoginStatus('create-char')">Character Creator</a></li>
+          <li>
+            <div class="dropdown">
+              <button onclick="document.getElementById('myDropdown').classList.toggle('show');" class="dropbtn">Explore <span class="glyphicon glyphicon-triangle-bottom"></span></button>
+        
+              <div id="myDropdown" class="dropdown-content">
+                <a href="javascript:;" onclick="modalWindow('./export.html', 'WDPKRecorder')">WDPKRecorder</a>
+                <a href="javascript:;" onclick="modalWindow('https://gowdpk.freeforums.net/', 'Community Forums')">Community</a>
+                <a href="javascript:;" onclick="modalWindow('./uploader/main.html', 'Wrapper2WDPK Converter')">Wrapper2WDPK Converter</a>
+              </div>
+            </div>
+          </li>
+          <li><a href="javascript:;" onclick="modalWindow('https://www.youtube.com/@josephanimate', 'josephanimate - YouTube')">Joseph Animate's YouTube Channel</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right" id="options-right">
+          <li><a href="javascript:;" onclick="document.getElementById('login-modal').style.display='block'"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+        </ul>
+      </div>
+    </nav>
+    <br>
+    <center style="background-color: black">
+      <h1 class="white">The THING In The Forest!</h1>
+      <p class="white">Need to know what to do? Choose a character, type in your dialogs, preview, done!</p>
+      <p class="white">An mysterious monster roams the outskirts of Go!City, Your character turns out to be jogging in a forest where you encounter this monster! </p>
+      <h2 class="white">Select your characters for the video. Please note that because of the way the template is made, you can only select 2 characters. we might add a feature where you can select more characters pretty soon.</h2>
+    </center>
+    <div class="grid-container"></div>
+    <script>
+      //should we store the template base xmls into /go/templates/ or in this folder
+      $.getJSON('/charList?themeId=family', (json) => {
+        for (const tbl of json) {
+          $(".grid-container").append(`<div class="grid-item"><input type="checkbox" id="${tbl.id}" class="scene_setting"><img src="/char_thumbs/${tbl.id}.png"></div>`)
+        }
+      });
+    </script>
+    <center style="background-color: black">
+      <p class="white">Once you've finished writing down your character's dialog, click on the "Generate Preview" button to see your video. (errors may occur, as this is in testing currently, which we will fix sometime in the future.)</p>
+      <h4 class="white">Write your dialog.</h4>
+      </center>
+      <input type="text" placeholder="Type in your dialogue for your character" class="scene_setting" id="text" name="text"/>
+      <select class="scene_setting" id="voices">
+        <option value="joey" required>Joey</option>
+        <option value="eric" required>Eric</option>
+        <option value="david" required>David</option>
+      </select>
+      <br>
+      <div id="preview-video"><button onclick="beginPreview()">Generate Preview</button>
+      <div id="save-now" style="display: none"><button onclick="saveVideo()">Save Now</button>
+      </div>
+      </div>
+      <div id="playerdiv"></div>
+    </center>
+    <script>
+      const table = [];
+      $(".scene_setting").on("change", (event) => {
+        const elem = $(event.target);
+        const id = elem.attr("id");
+        table.push(id);
+        console.log(table);
+      });
+    </script>
+  
+  </body>
+</html>

@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html>
+<title>Settings</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"/>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="GoWDPK is an experimental instance by Jerry2009, where he just messes around with GoAnimate Wrapper."/>
+<meta name="keywords" content="wrapper, ga, gowdpk, comedy world, animations, free animation, goanimate revival, how to get comedy world, family guy goanimate, ga, vyond legacy, vyond old lvm, how to get comedy world back on vyond, wrapper no download"/>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<script src="https://josephanimate2021.github.io/lvm-static/api/jquery/index.js"></script>
+<style>
+  .videoOfTheMonth {
+		font-size: 14px;
+		padding: 10px 0;
+		background-color: #03013b;
+		text-align: center;
+	}
+  .message {
+		font-size: 14px;
+		padding: 10px 0;
+		background-color: darkorange;
+		text-align: center;
+	}
+  .dropbtn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+  .dropdown a:hover {background-color: #ddd;}
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+  }
+  .grid-item {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .show {display: block;}
+  body {
+    font-family:trebuchet MS;
+  }
+  /* Add a black background color to the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #e9e9e9;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the "active" element to highlight the current page */
+.topnav a.active {
+  background-color: #2196F3;
+  color: white;
+}
+
+/* Style the search box inside the navigation bar */
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+/* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
+@media screen and (max-width: 600px) {
+  .topnav a, .topnav input[type=text] {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;
+  }
+}
+/* jerry, please stop making the upload form visable. it is supposed to be invisable. */
+
+.search-box {
+  display: block;
+}
+html.dark, html.dark>body {
+	background: black;
+}
+</style>  
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/">GoWDPK</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="/">Home</a></li>
+      <li><a href="javascript:;" onclick="document.getElementById('create-modal').style.display='block'"">Create</a></li>
+      <li><a href="javascript:;" onclick="document.getElementById('chr-modal').style.display='block'">Character Creator</a></li>
+      <li>
+        <div class="dropdown">
+          <button onclick="document.getElementById('myDropdown').classList.toggle('show');" class="dropbtn">Explore</button>
+        
+          <div id="myDropdown" class="dropdown-content">
+            <a href="javascript:;" onclick="modalWindow('./export.html', 'Export Video')">WDPKRecorder</a>
+            <a href="javascript:;" onclick="modalWindow('https://gowdpk.freeforums.net/', 'Community Forums')">Community</a>
+            <a href="javascript:;" onclick="modalWindow('./uploader/main.html', 'Wrapper2WDPK Converter')">Wrapper2WDPK Converter</a>
+            
+          </div>
+        </div>
+      </li>
+      <li><a href="https://youtube.com/@josephanimate">Joseph Animate's YouTube Channel</a></li>
+      
+    </ul>
+    <ul class="nav navbar-nav navbar-right" id="options-right">
+      <li><a href="javascript:;" onclick="document.getElementById('login-modal').style.display='block'"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+    </ul>
+  </div>
+</div>
+
+  <!-- <div class="videoOfTheMonth">
+    <h2>Video of the month:</h2>
+    <div>
+      <a href="javascript:modalWindow('m-34')"><img src="/movie_thumbs/m-34.png" height=240 width="320" alt="movieofthemonththumb"></a>
+    </div>
+  </div> -->
+<div class="message">
+  <h2>GoWDPK Is Nearly done. account systems are functional and we think that most of the features here are functional most of the time with unfixable bugs sometimes occuring. If you want to get updates for this site, then join the <a href="https://discord.gg/PnRGd96amY">Redrawn Discord Server</a></h2>
+</div></nav>
+<div class="w3-container">	
+  <div id="chr-modal" class="w3-modal">
+    <div class="w3-modal-content w3-animate-zoom">
+      <header class="w3-container w3-teal"> 
+        <span onclick="document.getElementById('chr-modal').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+        <h2>Select A Theme For Your Character</h2>
+      </header>
+      <div class="w3-container">
+        <div class="grid-container">
+          <div class="grid-item">
+            <a href="/cc_browser?themeId=family"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/custom.jpg" alt="Comedy World"><br>Comedy World</a>
+          </div>
+          <div class="grid-item">
+            <a href="/cc?themeId=cc2"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/action.jpg" alt="Lil' Peepz"><br>Lil' Peepz</a>
+          </div><br>
+          <div class="grid-item">
+            <a href="/cc_browser?themeId=anime"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/anime.jpg" alt="Anime"><br>Anime</a>
+          </div>
+          <div class="grid-item">
+            <a href="/cc_browser?themeId=ninjaanime"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/ninjaanime.jpg" alt="Ninja Anime"><br>Ninja Anime</a>
+          </div><br>
+          <div class="grid-item">
+            <a href="/cc_browser?themeId=spacecitizen"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/spacecitizen.jpg" alt="Space Citizens"><br>Space Citizens</a>
+          </div>
+          <div class="grid-item">
+            <a href="/cc_browser?themeId=chibi"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/chibi.jpg" alt="Chibi Peepz"><br>Chibi Peepz</a>
+          </div><br>
+          <div class="grid-item">
+            <a href="/cc_browser?themeId=ninja"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/ninja.jpg" alt="Chibi Ninjas"><br>Chibi Ninjas</a>
+          </div>
+        </div>
+      </div>
+      <div class="w3-container w3-border-top w3-padding-16 w3-light-grey">
+        <button onclick="document.getElementById('chr-modal').style.display='none'" type="button" class="w3-button w3-red">Cancel</button>
+      </div>
+      <footer class="w3-container w3-teal">
+        <center><p>Please note that selecting a theme from the modal windows are currently in beta right now. please expect this to not work correctly.</p></center>
+      </footer>
+    </div>
+  </div>
+  <div id="create-modal" class="w3-modal">
+    <div class="w3-modal-content w3-animate-zoom">
+      <header class="w3-container w3-teal"> 
+        <span onclick="document.getElementById('create-modal').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+        <h2>Select A Theme For Your Video</h2>
+      </header>
+      <div class="w3-container">
+        <div class="grid-container">
+          <div class="grid-item">
+            <a href="javascript:;" onclick="redirect('custom')"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/custom.jpg" alt="Comedy World"><br>Comedy World</a>
+          </div>
+          <div class="grid-item">
+            <a href="javascript:;" onclick="redirect('action')"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/action.jpg" alt="Lil' Peepz"><br>Lil' Peepz</a>
+          </div><br>
+          <div class="grid-item">
+            <a href="javascript:;" onclick="redirect('retro')"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/retro.jpg" alt="Cartoon Classics"><br>Cartoon Classics</a>
+          </div>
+          <div class="grid-item">
+            <a href="javascript:;" onclick="redirect('politics2')"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/politics2.jpg" alt="White Houserz"><br>White Houserz</a>
+          </div><br>
+          <div class="grid-item">
+            <a href="javascript:;" onclick="redirect('stick')"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/stick.jpg" alt="Stick Figure"><br>Stick Figure</a>
+          </div>
+          <div class="grid-item">
+            <a href="javascript:;" onclick="redirect('anime')"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/anime.jpg" alt="Anime"><br>Anime</a>
+          </div><br>
+          <div class="grid-item">
+            <a href="javascript:;" onclick="redirect('ninjaanime')"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/ninjaanime.jpg" alt="Ninja Anime"><br>Ninja Anime</a>
+          </div>
+          <div class="grid-item">
+            <a href="javascript:;" onclick="redirect('spacecitizen')"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/spacecitizen.jpg" alt="Space Citizens"><br>Space Citizens</a>
+          </div><br>
+          <div class="grid-item">
+            <a href="javascript:;" onclick="redirect('chibi')"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/chibi.jpg" alt="Chibi Peepz"><br>Chibi Peepz</a>
+          </div>
+          <div class="grid-item">
+            <a href="javascript:;" onclick="redirect('ninja')"><img src="https://raw.githubusercontent.com/Wrapper-Offline/Wrapper-Offline/main/server/pages/img/themes/ninja.jpg" alt="Chibi Ninjas"><br>Chibi Ninjas</a>
+          </div>
+        </div>
+      </div>
+      <div class="w3-container w3-border-top w3-padding-16 w3-light-grey">
+        <button onclick="document.getElementById('create-modal').style.display='none'" type="button" class="w3-button w3-red">Cancel</button>
+      </div>
+      <footer class="w3-container w3-teal">
+        <center><p>Please note that selecting a theme from the modal windows are currently in beta right now. please expect this to not work correctly.</p></center>
+      </footer>
+    </div>
+  </div>
+  <h1>Settings</h1><br>
+  <a href="javascript:;" id="features-tab" onclick="s('features')">Features</a><br>
+  <a href="javascript:;" id="appearance-tab" onclick="s('appearance')">Appearance</a><br>
+  <a href="javascript:;" id="experience-tab" onclick="s('experience')">Experience (beta)</a><br>
+  <div id="features">
+    <h2>Features</h2><br>
+    <h3>Interactive Tutorial</h3><br>
+    <p>If this is your first time using the lvm, then the interactive tutorial is turned on by default. to turn this off, click on the checkmark below.</p><br>
+    <input class="setting" type="checkbox" id="tutorial"></input>
+    <!--<h3>Gotest themelist</h3><br>
+    <p>The gotest themelist is turned on by default. in order to turn this off, you can click on the checkmark below.</p><br>
+    <input class="setting" type="checkbox" id="themelist"></input>-->
+    <h3>Show waveforms</h3><br>
+    <p>By default, waveforms are generated in the video editor.<br/>
+			 While useful, the editor freezes while it generates which could be too slow for some with low end computers. <br>Turning this off will simply add a repeating pre-made pattern in place of true waveforms.</p><br>
+		<input class="setting" type="checkbox" id="waveform"></input>
+    <h3>Default watermark</h3><br>
+    <p>The Video Player has 4 choices for default watermarks.<br/>
+			 Default watermarks are shown when you choose a Go!Animate watermark.</p><br>
+		<select class="setting" id="watermark">
+      <option value="default">GoAnimate</option>
+			<option value="twoLines">Go Make Your Own</option>
+			<option value="g4s">GoAnimate For Schools</option>
+			<option value="freeTrial">Free Trial</option>
+      <option value="octanuary">No Watermark</option>
+		</select>
+		<h3>14:9 or 16:9 aspect ratio</h3><br>
+    <p>By default, the Video Player & Editor uses the 14:9 aspect ratio.<br/>
+			 However, you can toggle this setting to make it 16:9, just like Vyond's Old Legacy Video Maker.</p><br>
+		<select class="setting" id="wide">
+			<option value="0">14:9</option>
+			<option value="1">16:9</option>
+		</select>
+	</div>
+	<div id="appearance" style="display:none">
+		<h2>Appearance</h2><br>
+
+		<h3>Dark mode</h3><br>
+		<p>Self-explanatory. Makes the Video List dark.</p><br>
+		<input class="setting" type="checkbox" id="mode"></input>
+	</div>
+  <div id="experience" style="display:none">
+    <h2>Decorate your themelist</h2><br>
+		<p>Self-explanatory. You can customize your themelist. By default, options are set to the gotest334.esy.es/most likely the original GoAnimate (before business friendly) iteration of the themelist. <!-- i am not sure about that.
+      You can also check and deselect the list of themes you want to add/remove.--></p><br>
+    <p>Themelist Presets</p> <!-- preset savin' n' loadin' just kidding we already have enough features right here, we're almost finshed anyway and im excited, how about you? -->
+    <select class="setting" id="themelist_type"><!-- we do not have a retrolist yet.
+      <option value="retro_themelist">Retrolist</option>-->
+      <option value="wrapper_themelist">Wrapperlist</option>
+      <option value="gotest_themelist">gotest334.esy.es themelist</option>
+      <option value="allthemes_themelist">ALL OF THE THEMES!!!</option>
+      <option value="peepz_themelist">All of the peepz</option><!-- we have not created the a2z or z2a themelists yet.
+      <option value="a2z_themelist">A to Z (or zed depending on which country you're in.)</option>
+      <option value="z2a_themelist">Z to A</option>-->
+    </select>
+    <!-- i think you know what the decorate themelist feature is based off of. -R909 -->
+  </div>
+</div>
+<script>
+  $.getJSON("/ajax/userInfo", (json) => {
+    if (json) {
+      document.getElementById('options-right').innerHTML = `<li class="dropdown">
+          <button onclick="document.getElementById('accDropdown').classList.toggle('show');" class="dropbtn">Your Account <span class="glyphicon glyphicon-triangle-bottom"></button>
+        
+          <div id="accDropdown" class="dropdown-content">
+            <a href="/videos/list/${json.name}">Your Videos</a>
+            <a href="./settings.html">Settings</a>
+            <a id="account_href" href="https://replit.com/@${json.name}">Your Replit Account</a>
+          </div>
+        </div>
+      </li>`;
+      if (json.roles) return;
+      document.getElementById('account_href').href = "/logout/staff_account";
+      document.getElementById('account_href').innerHTML = 'Logout';
+      $('#account_href').css("color", "red");
+    }
+  });
+	/*
+	list
+	*/
+	let list = [];
+	for (const elem of $(".setting")) list.push(elem.id);
+	$.getJSON("/ajax/settings/list", (d) => {
+    if (d.mode) {
+      $("html").addClass("dark");
+      if ($("html").hasClass("dark")) {
+        $("h1").css("color", "white")
+        $("h2").css("color", "white")
+        $("h3").css("color", "white")
+        $("p").css("color", "white")
+        $("#appearance-tab").css("color", "white");
+        $("#experience-tab").css("color", "white");
+      } else {
+        $("#appearance-tab").css("color", "black");
+        $("#experience-tab").css("color", "black");
+      }
+    }
+    $("#features-tab").css("color", "blue");
+		for (const [key, val] of Object.entries(d)) {
+			const index = list.indexOf(key);
+			if (index < 0) continue;
+			list.splice(index, 1);
+			show(key, val);
+		}
+	});
+
+	/*
+	toggle
+	*/
+	$(".setting").on("change", (event) => {
+		const elem = $(event.target);
+		const setting = elem.attr("id");
+		var value;
+    switch (setting) {
+      case "watermark":
+      case "themelist_type":
+      case "wide": {
+        value = elem.val();
+        break;
+      } case "mode": {
+        if ($("html").hasClass("dark")) {
+          $("html").removeClass("dark");
+          $("h1").css("color", "black")
+          $("h2").css("color", "black")
+          $("h3").css("color", "black")
+          $("p").css("color", "black")
+          $("#features-tab").css("color", "black");
+          $("#experience-tab").css("color", "white");
+        } else {
+          $("html").addClass("dark");
+          $("h1").css("color", "white")
+          $("h2").css("color", "white")
+          $("h3").css("color", "white")
+          $("p").css("color", "white")
+          $("#features-tab").css("color", "white");
+          $("#experience-tab").css("color", "white");
+        }
+        break;
+      }
+    }
+		$.post("/ajax/settings/update", { setting, value });
+    show(setting, value);
+	});
+	function show(key, value) {
+		const elem = $(`#${key}`);
+
+		if (elem.prop("tagName") == "SELECT") elem.find(`option[value='${value}']`).prop("selected", true);
+		else elem.prop("checked", value);
+	}
+  function s(type) {
+    switch (type) {
+      case 'features': {
+        $("#features").show()
+        $("#experience").hide()
+        $("#features-tab").css("color", "blue");
+        $("#appearance").hide()
+        if ($("html").hasClass("dark")) $("#appearance-tab").css("color", "white");
+        else $("#appearance-tab").css("color", "black");
+        if ($("html").hasClass("dark")) $("#experience-tab").css("color", "white");
+        else $("#experience-tab").css("color", "black");
+        break;
+      } case 'appearance': {
+        $("#features").hide()
+        $("#experience").hide()
+        if ($("html").hasClass("dark")) $("#features-tab").css("color", "white");
+        else $("#features-tab").css("color", "black");
+        if ($("html").hasClass("dark")) $("#experience-tab").css("color", "white");
+        else $("#experience-tab").css("color", "black");
+        $("#appearance").show()
+        $("#appearance-tab").css("color", "blue");
+        break;
+      } case 'experience': {
+        $("#features").hide()
+        $("#appearance").hide()
+        if ($("html").hasClass("dark")) $("#features-tab").css("color", "white");
+        else $("#features-tab").css("color", "black");
+        if ($("html").hasClass("dark")) $("#appearance-tab").css("color", "white");
+        else $("#appearance-tab").css("color", "black");
+        $("#experience").show()
+        $("#experience-tab").css("color", "blue");
+        break;
+      }
+    }
+  }
+</script></body></html>
