@@ -11,7 +11,6 @@
 	<theme id="domo" name="Domo" cc_theme_id="domo" enable="N" col="1"/>
 	<theme id="common" name="Common" thumb="matchboy-stand.swf" cc_theme_id="common"/>
 	<theme id="business" name="Business Friendly" thumb="" cc_theme_id="business" col="2"/>
-	<theme id="infographics" name="Video Infographics" thumb="" cc_theme_id="infographics" col="2"/>
         <theme id="commoncraft" name="Common Craft" thumb="" cc_theme_id="commoncraft" col="2"/>
         <theme id="sticklybiz" name="Stickly Business" thumb="" cc_theme_id="infographics" col="2"/>
         <theme id="bizmodels" name="Business Models" thumb="" cc_theme_id="bizmodels" col="2"/>
