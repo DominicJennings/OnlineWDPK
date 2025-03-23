@@ -23,7 +23,8 @@
 	<theme id="politic" name="Politics &amp; Celebrity" hitman="N" seg1="politic\politic.zip" seg2="politic\politic2.zip" thumb="hilary-stand.swf" cc_theme_id="politic" />
 	<theme id="common" name="Common" hitman="N" seg1="common\common.zip" seg2="common\common2.zip" thumb="matchboy-stand.swf" cc_theme_id="common" />
 	<word>mikiko,vikiko</word>
-	<whiteword />
-	<excludeAssetIDs />
-	<points money="0" sharing="0" />
+        <whiteword/>
+        <excludeAssetIDs/>
+        <points money="100" sharing="100"/>
+        <tts credit="100"/>
 </list>
