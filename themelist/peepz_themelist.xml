@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list version="1.0">
 	<fvm_meta theme_code="" is_biz="0" />
-	<theme id="action" name="Lil' Peepz" thumb="" cc_theme_id="action" />
-	<theme id="chibi" name="Chibi Peepz" thumb="" cc_theme_id="chibi" />
-	<theme id="space" name="Space Peepz" thumb="" cc_theme_id="space" />
+	<theme id="action" name="Lil' Peepz" thumb="" cc_theme_id="cc2" col="3"/>
+	<theme id="chibi" name="Chibi Peepz" thumb="" cc_theme_id="chibi" col="3"/>
+	<theme id="space" name="Space Peepz" thumb="" cc_theme_id="cc2" col="3"/>
+	<theme id="animal" name="Lil' Petz" thumb="" cc_theme_id="cc2" col="3"/>
+	<theme id="ninja" name="Chibi Ninjas" thumb="" cc_theme_id="ninja" col="3"/>
+	<theme id="vietnam" name="Jungle Warfare" thumb="" cc_theme_id="cc2" col="3"/>
 	<word>ALLTHEPEEPZ!</word>
-	<whiteword />
-	<excludeAssetIDs />
-	<points money="303" sharing="0" />
-</list>
+        <whiteword/>
+        <excludeAssetIDs />
+        <points money="100" sharing="100"/>
+        <tts credit="100"/>
+        </list>
