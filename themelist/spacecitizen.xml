@@ -261,4 +261,23 @@
 	<prop id="space05_prop02.swf" name="Space ship" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="20477" money="0" sharing="0"/>
 	<prop id="space06_prop02.swf" name="Door" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="20478" money="0" sharing="0"/>
 	<prop id="space06_prop03.swf" name="Screen" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="20479" money="0" sharing="0"/>
+<!--CHARACTERS-->
+<char id="153629970" name="Untitled" cc_theme_id="spacecitizen" thumbnail_url="stock_thumbs/153629970.png" copyable="Y">
+<tags>spacecitizen</tags>
+</char>
+<char id="153629971" name="Untitled" cc_theme_id="spacecitizen" thumbnail_url="stock_thumbs/153629971.png" copyable="Y">
+<tags>spacecitizen</tags>
+</char>
+<char id="153629973" name="Untitled" cc_theme_id="spacecitizen" thumbnail_url="stock_thumbs/153629973.png" copyable="Y">
+<tags>spacecitizen</tags>
+</char>
+<char id="153629974" name="Untitled" cc_theme_id="spacecitizen" thumbnail_url="stock_thumbs/153629974.png" copyable="Y">
+<tags>spacecitizen</tags>
+</char>
+<char id="153629979" name="Untitled" cc_theme_id="spacecitizen" thumbnail_url="stock_thumbs/153629979.png" copyable="Y">
+<tags>spacecitizen</tags>
+</char>
+<char id="153629980" name="Untitled" cc_theme_id="spacecitizen" thumbnail_url="stock_thumbs/153629980.png" copyable="Y">
+<tags>spacecitizen</tags>
+</char>
 </theme>

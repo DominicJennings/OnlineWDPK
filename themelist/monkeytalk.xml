@@ -164,63 +164,63 @@
 	<prop id="bed.swf" name="Bed" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3004" money="0" sharing="0"/>
 	<prop id="pan.swf" name="Pan" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3003" money="0" sharing="0"/>
 	<prop id="trunk.swf" name="Trunk" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3017" money="0" sharing="0"/>
-	<bubble id="ellipse" x="0" y="0" w="180" h="90" rotate="0" type="ELLIPSE" enable="Y" is_premium="N" aid="3018" money="0" sharing="0">
+	<bubble id="ellipse" x="0" y="0" w="180" h="90" rotate="0" type="ELLIPSE" enable="N" is_premium="N" aid="3018" money="0" sharing="0">
 	<body rgb="0xFFFFFF" linergb="0" tailx="180" taily="110"/>
 	<text rgb="0" font="Blambot Casual" size="14" align="center" bold="false" italic="false">Click here to edit</text>
 </bubble>
-	<bubble id="roundRect" x="0" y="0" w="180" h="90" rotate="0" type="ROUNDRECTANGULAR" enable="Y" is_premium="N" aid="3019" money="0" sharing="0">
+	<bubble id="roundRect" x="0" y="0" w="180" h="90" rotate="0" type="ROUNDRECTANGULAR" enable="N" is_premium="N" aid="3019" money="0" sharing="0">
 	<body rgb="0xFFFFFF" linergb="0" tailx="180" taily="110"/>
 	<text rgb="0" font="Blambot Casual" size="14" align="center" bold="false" italic="false">Click here to edit</text>
 </bubble>
-	<bubble id="rect" x="0" y="0" w="180" h="90" rotate="0" type="RECTANGULAR" enable="Y" is_premium="N" aid="3020" money="0" sharing="0">
+	<bubble id="rect" x="0" y="0" w="180" h="90" rotate="0" type="RECTANGULAR" enable="N" is_premium="N" aid="3020" money="0" sharing="0">
 	<body rgb="0xFFFFFF" linergb="0" tailx="180" taily="110"/>
 	<text rgb="0" font="Blambot Casual" size="14" align="center" bold="false" italic="false">Click here to edit</text>
 </bubble>
-	<bubble id="cloud" x="0" y="0" w="180" h="90" rotate="0" type="CLOUD" enable="Y" is_premium="N" aid="3021" money="0" sharing="0">
+	<bubble id="cloud" x="0" y="0" w="180" h="90" rotate="0" type="CLOUD" enable="N" is_premium="N" aid="3021" money="0" sharing="0">
 	<body rgb="0xFFFFFF" linergb="0" tailx="180" taily="110"/>
 	<text rgb="0" font="Blambot Casual" size="14" align="center" bold="false" italic="false">Click here to edit</text>
 </bubble>
-	<bubble id="heart" x="0" y="0" w="180" h="90" rotate="0" type="HEART" enable="Y" is_premium="N" aid="3022" money="0" sharing="0">
+	<bubble id="heart" x="0" y="0" w="180" h="90" rotate="0" type="HEART" enable="N" is_premium="N" aid="3022" money="0" sharing="0">
 	<body rgb="0xFFFFFF" linergb="0" tailx="180" taily="110"/>
 	<text rgb="0" font="Blambot Casual" size="14" align="center" bold="false" italic="false">Click here to edit</text>
 </bubble>
-	<bubble id="boom" x="0" y="0" w="260" h="130" rotate="0" type="BOOM" enable="Y" is_premium="N" aid="3023" money="0" sharing="0">
+	<bubble id="boom" x="0" y="0" w="260" h="130" rotate="0" type="BOOM" enable="N" is_premium="N" aid="3023" money="0" sharing="0">
 	<body rgb="0xFFFFFF" linergb="0" tailx="260" taily="130"/>
 	<text rgb="0" font="BadaBoom BB" size="20" align="center" bold="false" italic="false">Click here to edit</text>
 </bubble>
-	<bubble id="blank" x="0" y="0" w="180" h="90" rotate="0" type="BLANK" enable="Y" is_premium="N" aid="3024" money="0" sharing="0">
+	<bubble id="blank" x="0" y="0" w="180" h="90" rotate="0" type="BLANK" enable="N" is_premium="N" aid="3024" money="0" sharing="0">
 	<body rgb="0xFFFFFF" linergb="0" tailx="180" taily="110"/>
 	<text rgb="0" font="BadaBoom BB" size="20" align="center" bold="false" italic="false">Click here to edit</text>
 </bubble>
-	<effect id="zoom" x="0" y="0" w="140" h="90" rotate="0" type="ZOOM" resize="true" move="true" name="Zoom" enable="Y" is_premium="N" aid="3025" money="0" sharing="0"/>
-	<effect id="aud-clap.swf" type="ANIME" resize="false" move="false" name="Clap" enable="Y" is_premium="N" aid="3042" money="0" sharing="0"/>
-	<effect id="black_all.swf" type="ANIME" resize="false" move="false" name="Darkness" enable="Y" is_premium="N" aid="3043" money="0" sharing="0"/>
-	<effect id="black_bar.swf" type="ANIME" resize="false" move="false" name="Black Bar" enable="Y" is_premium="N" aid="3044" money="0" sharing="0"/>
-	<effect id="blue_screen.swf" type="ANIME" resize="false" move="false" name="Blue Screen" enable="Y" is_premium="N" aid="3045" money="0" sharing="0"/>
-	<effect id="circle_fade_out.swf" type="ANIME" resize="false" move="false" name="Circle Fade Out" enable="Y" is_premium="N" aid="3046" money="0" sharing="0"/>
-	<effect id="fade_in.swf" type="ANIME" resize="false" move="false" name="Fade In" enable="Y" is_premium="N" aid="3047" money="0" sharing="0"/>
-	<effect id="fade_out.swf" type="ANIME" resize="false" move="false" name="Fade Out" enable="Y" is_premium="N" aid="3048" money="0" sharing="0"/>
-	<effect id="flash_light01.swf" type="ANIME" resize="false" move="false" name="Flash Light" enable="Y" is_premium="N" aid="3049" money="0" sharing="0"/>
-	<effect id="gnn_news.swf" type="ANIME" resize="false" move="false" name="GNN News" enable="Y" is_premium="N" aid="3050" money="0" sharing="0"/>
-	<effect id="green_screen.swf" type="ANIME" resize="false" move="false" name="Green Screen" enable="Y" is_premium="N" aid="3051" money="0" sharing="0"/>
-	<effect id="ppl01.swf" type="ANIME" resize="false" move="false" name="People" enable="Y" is_premium="N" aid="3052" money="0" sharing="0"/>
-	<effect id="bomb.swf" type="ANIME" resize="false" move="false" name="Bomb" enable="Y" is_premium="N" aid="3053" money="0" sharing="0"/>
-	<effect id="water_flood.swf" type="ANIME" resize="false" move="false" name="Water Flood" enable="Y" is_premium="N" aid="3054" money="0" sharing="0"/>
-	<effect id="aud-banner.swf" type="ANIME" resize="false" move="false" name="Banner" enable="Y" is_premium="N" aid="3041" money="0" sharing="0"/>
-	<effect id="aud-01.swf" type="ANIME" resize="false" move="false" name="Auditorium" enable="Y" is_premium="N" aid="3040" money="0" sharing="0"/>
-	<effect id="atomic-bomb.swf" type="ANIME" resize="false" move="false" name="Atomic Bomb" enable="Y" is_premium="N" aid="3039" money="0" sharing="0"/>
-	<effect id="cut" x="0" y="0" w="140" h="90" rotate="0" type="ZOOM" resize="true" move="true" name="Cut" enable="Y" isCut="true" is_premium="N" aid="3026" money="0" sharing="0"/>
-	<effect id="earthquake" x="0" y="0" w="550" h="354" rotate="0" type="EARTHQUAKE" resize="false" move="false" name="Earthquake" enable="Y" is_premium="N" aid="3027" money="0" sharing="0"/>
-	<effect id="upsideDown" x="0" y="0" w="550" h="354" rotate="0" type="UPSIDEDOWN" resize="false" move="false" name="Upside Down" enable="Y" is_premium="N" aid="3028" money="0" sharing="0"/>
-	<effect id="firework" x="0" y="0" w="550" h="354" rotate="0" type="FIREWORK" resize="false" move="false" name="Firework" enable="Y" is_premium="N" aid="3029" money="0" sharing="0"/>
-	<effect id="firespring" x="0" y="0" w="550" h="354" rotate="0" type="FIRESPRING" resize="false" move="false" name="Fire Spring" enable="Y" is_premium="N" aid="3030" money="0" sharing="0"/>
-	<effect id="fire.swf" type="ANIME" resize="false" move="false" name="BBQ" enable="Y" is_premium="N" aid="3031" money="0" sharing="0"/>
-	<effect id="lightening.swf" type="ANIME" resize="false" move="false" name="Lightning" enable="Y" is_premium="N" aid="3032" money="0" sharing="0"/>
-	<effect id="snow.swf" type="ANIME" resize="false" move="false" name="Snow" enable="Y" is_premium="N" aid="3033" money="0" sharing="0"/>
-	<effect id="hyper_snow.swf" type="ANIME" resize="false" move="false" name="Hyper Snow" enable="Y" is_premium="N" aid="3034" money="0" sharing="0"/>
-	<effect id="snow01.swf" type="ANIME" resize="false" move="false" name="Snow01" enable="Y" is_premium="N" aid="3035" money="0" sharing="0"/>
-	<effect id="snow02.swf" type="ANIME" resize="false" move="false" name="Snow02" enable="Y" is_premium="N" aid="3036" money="0" sharing="0"/>
-	<effect id="old_film_effect.swf" type="ANIME" resize="false" move="false" name="Old Film" enable="Y" is_premium="N" aid="3037" money="0" sharing="0"/>
-	<effect id="hearts.swf" type="ANIME" resize="false" move="false" name="Heart" enable="Y" is_premium="N" aid="3038" money="0" sharing="0"/>
-	<effect id="DV_screen.swf" type="ANIME" resize="false" move="false" name="DV Screen" enable="Y" is_premium="N" aid="3055" money="0" sharing="0"/>
+	<effect id="zoom" x="0" y="0" w="140" h="90" rotate="0" type="ZOOM" resize="true" move="true" name="Zoom" enable="N" is_premium="N" aid="3025" money="0" sharing="0"/>
+	<effect id="aud-clap.swf" type="ANIME" resize="false" move="false" name="Clap" enable="N" is_premium="N" aid="3042" money="0" sharing="0"/>
+	<effect id="black_all.swf" type="ANIME" resize="false" move="false" name="Darkness" enable="N" is_premium="N" aid="3043" money="0" sharing="0"/>
+	<effect id="black_bar.swf" type="ANIME" resize="false" move="false" name="Black Bar" enable="N" is_premium="N" aid="3044" money="0" sharing="0"/>
+	<effect id="blue_screen.swf" type="ANIME" resize="false" move="false" name="Blue Screen" enable="N" is_premium="N" aid="3045" money="0" sharing="0"/>
+	<effect id="circle_fade_out.swf" type="ANIME" resize="false" move="false" name="Circle Fade Out" enable="N" is_premium="N" aid="3046" money="0" sharing="0"/>
+	<effect id="fade_in.swf" type="ANIME" resize="false" move="false" name="Fade In" enable="N" is_premium="N" aid="3047" money="0" sharing="0"/>
+	<effect id="fade_out.swf" type="ANIME" resize="false" move="false" name="Fade Out" enable="N" is_premium="N" aid="3048" money="0" sharing="0"/>
+	<effect id="flash_light01.swf" type="ANIME" resize="false" move="false" name="Flash Light" enable="N" is_premium="N" aid="3049" money="0" sharing="0"/>
+	<effect id="gnn_news.swf" type="ANIME" resize="false" move="false" name="GNN News" enable="N" is_premium="N" aid="3050" money="0" sharing="0"/>
+	<effect id="green_screen.swf" type="ANIME" resize="false" move="false" name="Green Screen" enable="N" is_premium="N" aid="3051" money="0" sharing="0"/>
+	<effect id="ppl01.swf" type="ANIME" resize="false" move="false" name="People" enable="N" is_premium="N" aid="3052" money="0" sharing="0"/>
+	<effect id="bomb.swf" type="ANIME" resize="false" move="false" name="Bomb" enable="N" is_premium="N" aid="3053" money="0" sharing="0"/>
+	<effect id="water_flood.swf" type="ANIME" resize="false" move="false" name="Water Flood" enable="N" is_premium="N" aid="3054" money="0" sharing="0"/>
+	<effect id="aud-banner.swf" type="ANIME" resize="false" move="false" name="Banner" enable="N" is_premium="N" aid="3041" money="0" sharing="0"/>
+	<effect id="aud-01.swf" type="ANIME" resize="false" move="false" name="Auditorium" enable="N" is_premium="N" aid="3040" money="0" sharing="0"/>
+	<effect id="atomic-bomb.swf" type="ANIME" resize="false" move="false" name="Atomic Bomb" enable="N" is_premium="N" aid="3039" money="0" sharing="0"/>
+	<effect id="cut" x="0" y="0" w="140" h="90" rotate="0" type="ZOOM" resize="true" move="true" name="Cut" enable="N" isCut="true" is_premium="N" aid="3026" money="0" sharing="0"/>
+	<effect id="earthquake" x="0" y="0" w="550" h="354" rotate="0" type="EARTHQUAKE" resize="false" move="false" name="Earthquake" enable="N" is_premium="N" aid="3027" money="0" sharing="0"/>
+	<effect id="upsideDown" x="0" y="0" w="550" h="354" rotate="0" type="UPSIDEDOWN" resize="false" move="false" name="Upside Down" enable="N" is_premium="N" aid="3028" money="0" sharing="0"/>
+	<effect id="firework" x="0" y="0" w="550" h="354" rotate="0" type="FIREWORK" resize="false" move="false" name="Firework" enable="N" is_premium="N" aid="3029" money="0" sharing="0"/>
+	<effect id="firespring" x="0" y="0" w="550" h="354" rotate="0" type="FIRESPRING" resize="false" move="false" name="Fire Spring" enable="N" is_premium="N" aid="3030" money="0" sharing="0"/>
+	<effect id="fire.swf" type="ANIME" resize="false" move="false" name="BBQ" enable="N" is_premium="N" aid="3031" money="0" sharing="0"/>
+	<effect id="lightening.swf" type="ANIME" resize="false" move="false" name="Lightning" enable="N" is_premium="N" aid="3032" money="0" sharing="0"/>
+	<effect id="snow.swf" type="ANIME" resize="false" move="false" name="Snow" enable="N" is_premium="N" aid="3033" money="0" sharing="0"/>
+	<effect id="hyper_snow.swf" type="ANIME" resize="false" move="false" name="Hyper Snow" enable="N" is_premium="N" aid="3034" money="0" sharing="0"/>
+	<effect id="snow01.swf" type="ANIME" resize="false" move="false" name="Snow01" enable="N" is_premium="N" aid="3035" money="0" sharing="0"/>
+	<effect id="snow02.swf" type="ANIME" resize="false" move="false" name="Snow02" enable="N" is_premium="N" aid="3036" money="0" sharing="0"/>
+	<effect id="old_film_effect.swf" type="ANIME" resize="false" move="false" name="Old Film" enable="N" is_premium="N" aid="3037" money="0" sharing="0"/>
+	<effect id="hearts.swf" type="ANIME" resize="false" move="false" name="Heart" enable="N" is_premium="N" aid="3038" money="0" sharing="0"/>
+	<effect id="DV_screen.swf" type="ANIME" resize="false" move="false" name="DV Screen" enable="N" is_premium="N" aid="3055" money="0" sharing="0"/>
 </theme>

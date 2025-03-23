@@ -197,7 +197,7 @@
 		<facial id="head_talk_cry.swf" name="talk cry" enable="Y" aid="3859"/>
 		<facial id="head_neutral.swf" name="neutral" enable="Y" aid="8515"/>
 	</char>
-	<char id="simon" name="Simon Bar Sinister" thumb="standing.swf" facing="left" default="standing.swf" motion="walking.swf" enable="Y" is_premium="N" aid="3860" money="0" sharing="100">
+	<char id="simon" name="Simon Bar Sinister" thumb="standing.swf" facing="left" default="standing.swf" motion="walking.swf" enable="Y" is_premium="N" aid="3860" money="0" sharing="0">
 		<category name="emotion">
 			<action id="angry.swf" name="angry" loop="Y" totalframe="70" enable="Y" aid="3863"/>
 			<action id="confused.swf" name="confused" loop="Y" totalframe="100" enable="Y" aid="3864"/>
@@ -250,7 +250,7 @@
 		<facial id="head_talk_angry.swf" name="talk angry" enable="Y" aid="3908"/>
 		<facial id="head_neutral.swf" name="neutral" enable="Y" aid="8516"/>
 	</char>
-	<char id="cad" name="Cad" thumb="standing.swf" facing="left" default="standing.swf" motion="walking.swf" enable="Y" is_premium="N" aid="3954" money="250" sharing="0">
+	<char id="cad" name="Cad" thumb="standing.swf" facing="left" default="standing.swf" motion="walking.swf" enable="Y" is_premium="N" aid="3954" money="0" sharing="0">
 		<category name="emotion">
 			<action id="angry.swf" name="angry" loop="Y" totalframe="61" enable="Y" aid="3957"/>
 			<action id="cry.swf" name="cry" loop="Y" totalframe="58" enable="Y" aid="3958"/>
@@ -302,21 +302,21 @@
 		<facial id="head_neutral.swf" name="neutral" enable="Y" aid="8517"/>
 	</char>
 	<background id="police_station_bg.swf" name="Police Station" enable="Y" is_premium="N" aid="3909" money="0" sharing="0"/>
-	<background id="sky_panning_vertical_bg.swf" name="" enable="Y" is_premium="N" aid="4011" money="0" sharing="0"/>
-	<background id="plane_crashing_bg.swf" name="" enable="Y" is_premium="N" aid="4010" money="0" sharing="0"/>
-	<background id="sinister_castle_bg.swf" name="" enable="Y" is_premium="N" aid="4009" money="0" sharing="0"/>
-	<background id="jail_outside_bg.swf" name="" enable="Y" is_premium="N" aid="4008" money="0" sharing="0"/>
-	<background id="prison_window_bg.swf" name="" enable="Y" is_premium="N" aid="4007" money="0" sharing="0"/>
-	<background id="city_skyline_bg.swf" name="" enable="Y" is_premium="N" aid="4006" money="0" sharing="0"/>
-	<background id="bank_outside_bg.swf" name="" enable="Y" is_premium="N" aid="4005" money="0" sharing="0"/>
-	<background id="bank_inside_bg.swf" name="" enable="Y" is_premium="N" aid="4004" money="0" sharing="0"/>
-	<background id="alley_bg.swf" name="" enable="Y" is_premium="N" aid="4003" money="0" sharing="0"/>
-	<background id="tv_station_bg.swf" name="news report studio" enable="Y" is_premium="N" aid="3916" money="0" sharing="0"/>
-	<background id="sinister_living_room_bg.swf" name="sinister living room" enable="Y" is_premium="N" aid="3915" money="0" sharing="0"/>
-	<background id="sinister_lab2_bg.swf" name="Sinister Lab 2" enable="Y" is_premium="N" aid="3914" money="0" sharing="0"/>
-	<background id="riffraff_hideout_bg.swf" name="Riff Raff hideout" enable="Y" is_premium="N" aid="3913" money="0" sharing="0"/>
-	<background id="polly_office_bg.swf" name="polly office" enable="Y" is_premium="N" aid="3912" money="0" sharing="0"/>
-	<background id="phone_booth_bg.swf" name="phone booth" enable="Y" is_premium="N" aid="3911" money="0" sharing="0"/>
+	<background id="sky_panning_vertical_bg.swf" name="" enable="N" is_premium="N" aid="4011" money="0" sharing="0"/>
+	<background id="plane_crashing_bg.swf" name="" enable="N" is_premium="N" aid="4010" money="0" sharing="0"/>
+	<background id="sinister_castle_bg.swf" name="" enable="N" is_premium="N" aid="4009" money="0" sharing="0"/>
+	<background id="jail_outside_bg.swf" name="" enable="N" is_premium="N" aid="4008" money="0" sharing="0"/>
+	<background id="prison_window_bg.swf" name="" enable="N" is_premium="N" aid="4007" money="0" sharing="0"/>
+	<background id="city_skyline_bg.swf" name="" enable="N" is_premium="N" aid="4006" money="0" sharing="0"/>
+	<background id="bank_outside_bg.swf" name="" enable="N" is_premium="N" aid="4005" money="0" sharing="0"/>
+	<background id="bank_inside_bg.swf" name="" enable="N" is_premium="N" aid="4004" money="0" sharing="0"/>
+	<background id="alley_bg.swf" name="" enable="N" is_premium="N" aid="4003" money="0" sharing="0"/>
+	<background id="tv_station_bg.swf" name="news report studio" enable="N" is_premium="N" aid="3916" money="0" sharing="0"/>
+	<background id="sinister_living_room_bg.swf" name="sinister living room" enable="N" is_premium="N" aid="3915" money="0" sharing="0"/>
+	<background id="sinister_lab2_bg.swf" name="Sinister Lab 2" enable="N" is_premium="N" aid="3914" money="0" sharing="0"/>
+	<background id="riffraff_hideout_bg.swf" name="Riff Raff hideout" enable="N" is_premium="N" aid="3913" money="0" sharing="0"/>
+	<background id="polly_office_bg.swf" name="polly office" enable="N" is_premium="N" aid="3912" money="0" sharing="0"/>
+	<background id="phone_booth_bg.swf" name="phone booth" enable="N" is_premium="N" aid="3911" money="0" sharing="0"/>
 	<background id="sinister_lab1_bg.swf" name="Sinister Lab 1" enable="Y" is_premium="N" aid="3910" money="0" sharing="0"/>
 	<background id="sinister_basement.swf" name="Sinister Basement" enable="Y" is_premium="N" aid="4012" money="0" sharing="0"/>
 	<compositebg id="phone_booth" name="phone booth" thumb="phone_booth.jpg" enable="Y" default="Y" is_premium="N" aid="3917" money="0" sharing="0">
@@ -574,28 +574,28 @@
 		<rotation>0</rotation>
 	</prop>
 </compositebg>
-	<prop id="phone_booth_booth.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3923" money="0" sharing="0"/>
+	<prop id="phone_booth_booth.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3923" money="0" sharing="0"/>
 	<prop id="riffraff_hideout_chair.swf" name="Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3942" money="0" sharing="0"/>
 	<prop id="sinister_lab2_bucket.swf" name="Bucket" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3943" money="0" sharing="0"/>
 	<prop id="sinister_living_room_sofa.swf" name="Sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3944" money="0" sharing="0"/>
 	<prop id="tv_station_camera.swf" name="Camera" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3945" money="0" sharing="0"/>
-	<prop id="alley_hole.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4022" money="0" sharing="0"/>
-	<prop id="bank_inside_fence.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4023" money="0" sharing="0"/>
-	<prop id="bank_inside_wall.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4024" money="0" sharing="0"/>
+	<prop id="alley_hole.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4022" money="0" sharing="0"/>
+	<prop id="bank_inside_fence.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4023" money="0" sharing="0"/>
+	<prop id="bank_inside_wall.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4024" money="0" sharing="0"/>
 	<prop id="bank_outside_smoke.swf" name="Smoke" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4025" money="0" sharing="0"/>
-	<prop id="bank_outside_building.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4026" money="0" sharing="0"/>
-	<prop id="city_skyline_cloud.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4027" money="0" sharing="0"/>
-	<prop id="prison_window_window.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4028" money="0" sharing="0"/>
-	<prop id="jail_outside_fence.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4029" money="0" sharing="0"/>
-	<prop id="sinister_castle_gate.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4030" money="0" sharing="0"/>
-	<prop id="sky_panning_vertical_cloud.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4031" money="0" sharing="0"/>
+	<prop id="bank_outside_building.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4026" money="0" sharing="0"/>
+	<prop id="city_skyline_cloud.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4027" money="0" sharing="0"/>
+	<prop id="prison_window_window.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4028" money="0" sharing="0"/>
+	<prop id="jail_outside_fence.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4029" money="0" sharing="0"/>
+	<prop id="sinister_castle_gate.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4030" money="0" sharing="0"/>
+	<prop id="sky_panning_vertical_cloud.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4031" money="0" sharing="0"/>
 	<prop id="plane_crashing_plane.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4032" money="0" sharing="0"/>
 	<prop id="wanted_poster.swf" name="Wanted Poster" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3941" money="0" sharing="0"/>
 	<prop id="tv_set.swf" name="TV Set" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3940" money="0" sharing="0"/>
 	<prop id="transformation_FX.swf" name="Transformation FX" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3939" money="0" sharing="0"/>
-	<prop id="polly_office_table.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3924" money="0" sharing="0"/>
-	<prop id="riffraff_hideout_table.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3925" money="0" sharing="0"/>
-	<prop id="tv_station_table.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3926" money="0" sharing="0"/>
+	<prop id="polly_office_table.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3924" money="0" sharing="0"/>
+	<prop id="riffraff_hideout_table.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3925" money="0" sharing="0"/>
+	<prop id="tv_station_table.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3926" money="0" sharing="0"/>
 	<prop id="broken_wall.swf" name="Broken Wall" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3927" money="0" sharing="0"/>
 	<prop id="cudgel.swf" name="Cudgel" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3928" money="0" sharing="0"/>
 	<prop id="exploding_booth.swf" name="Exploding Booth" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3929" money="0" sharing="0"/>
@@ -609,20 +609,20 @@
 	<prop id="take_off_speed_line.swf" name="Take Off Speed Line" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3937" money="0" sharing="0"/>
 	<prop id="test_tube.swf" name="Test Tube" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3938" money="0" sharing="0"/>
 	<prop id="christmas_hat2.swf" name="Christmas Hat" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="4770" money="0" sharing="0"/>
-	<sound id="polly_where_underdog.swf" name="Sweet Polly Purebred-where is underdog" downloadtype="embed" subtype="soundeffect" duration="13272" enable="Y" is_premium="N" aid="4033" money="0" sharing="0"/>
-	<sound id="riff_great_leader.swf" name="Riff Raff-Greatest Leader" downloadtype="embed" subtype="soundeffect" duration="4704" enable="Y" is_premium="N" aid="4034" money="0" sharing="0"/>
-	<sound id="shoeshine_hip_hip.swf" name="Shoeshine-Hip hip Hip" downloadtype="embed" subtype="soundeffect" duration="8400" enable="Y" is_premium="N" aid="4035" money="0" sharing="0"/>
-	<sound id="simon_ill_conquer_world.swf" name="Simon-ill conquer the world" downloadtype="embed" subtype="soundeffect" duration="9576" enable="Y" is_premium="N" aid="4036" money="0" sharing="0"/>
-	<sound id="ud_no_need_fear.swf" name="Underdog-No Need to Fear" downloadtype="embed" subtype="soundeffect" duration="4560" enable="Y" is_premium="N" aid="4037" money="0" sharing="0"/>
-	<sound id="ud_not_plane.swf" name="Underdog-Not Plane" downloadtype="embed" subtype="soundeffect" duration="9528" enable="Y" is_premium="N" aid="4038" money="0" sharing="0"/>
-	<sound id="ud_open.swf" name="Underdog-Open" downloadtype="progressive" subtype="bgmusic" duration="38713" enable="Y" is_premium="N" aid="4039" money="0" sharing="0"/>
+	<sound id="polly_where_underdog.swf" name="Sweet Polly Purebred-where is underdog" downloadtype="embed" subtype="voiceover" duration="13272" enable="Y" is_premium="N" aid="4033" money="0" sharing="0"/>
+	<sound id="riff_great_leader.swf" name="Riff Raff-Greatest Leader" downloadtype="embed" subtype="voiceover" duration="4704" enable="Y" is_premium="N" aid="4034" money="0" sharing="0"/>
+	<sound id="shoeshine_hip_hip.swf" name="Shoeshine-Hip hip Hip" downloadtype="embed" subtype="voiceover" duration="8400" enable="Y" is_premium="N" aid="4035" money="0" sharing="0"/>
+	<sound id="simon_ill_conquer_world.swf" name="Simon-ill conquer the world" downloadtype="embed" subtype="voiceover" duration="9576" enable="Y" is_premium="N" aid="4036" money="0" sharing="0"/>
+	<sound id="ud_no_need_fear.swf" name="Underdog-No Need to Fear" downloadtype="embed" subtype="voiceover" duration="4560" enable="Y" is_premium="N" aid="4037" money="0" sharing="0"/>
+	<sound id="ud_not_plane.swf" name="Underdog-Not Plane" downloadtype="embed" subtype="voiceover" duration="9528" enable="Y" is_premium="N" aid="4038" money="0" sharing="0"/>
+	<sound id="ud_open.swf" name="Underdog-Open" downloadtype="progressive" subtype="bgmusic" duration="38713" enable="N" is_premium="N" aid="4039" money="0" sharing="0"/>
 	<sound id="ud_open.mp3" name="Underdog-Open" downloadtype="progressive" subtype="bgmusic" duration="38713" enable="Y" is_premium="N" aid="6054" money="0" sharing="0"/>
-	<presetMsg id="underdogpm1" quote="There's no need to fear! Underdog is here!" aid="3946" enable="Y" is_premium="N" money="0" sharing="0"/>
-	<presetMsg id="underdogpm2" quote="Not plane nor bird nor even frog. It's just little old me..." aid="3947" enable="Y" is_premium="N" money="0" sharing="0"/>
-	<presetMsg id="underdogpm3" quote="I am a hero who never fails, I can't be bothered with such details" aid="3948" enable="Y" is_premium="N" money="0" sharing="0"/>
-	<presetMsg id="underdogpm4" quote="Where, Oh Where has my Underdog gone, Oh where, oh where can he be?" aid="3949" enable="Y" is_premium="N" money="0" sharing="0"/>
-	<presetMsg id="underdogpm5" quote="I'm Public Enemy Number One" aid="3950" enable="Y" is_premium="N" money="0" sharing="0"/>
-	<presetMsg id="underdogpm6" quote="Simon says &quot;I'll take over the world&quot;" aid="3951" enable="Y" is_premium="N" money="0" sharing="0"/>
-	<presetMsg id="underdogpm7" quote="Simon's wish is my command" aid="3952" enable="Y" is_premium="N" money="0" sharing="0"/>
-	<presetMsg id="underdogpm8" quote="When Polly's in trouble I am not slow, it's Hip, Hip, Hip and away I go!" aid="3953" enable="Y" is_premium="N" money="0" sharing="0"/>
+	<presetMsg id="underdogpm1" quote="There's no need to fear! Underdog is here!" aid="3946" enable="N" is_premium="N" money="0" sharing="0"/>
+	<presetMsg id="underdogpm2" quote="Not plane nor bird nor even frog. It's just little old me..." aid="3947" enable="N" is_premium="N" money="0" sharing="0"/>
+	<presetMsg id="underdogpm3" quote="I am a hero who never fails, I can't be bothered with such details" aid="3948" enable="N" is_premium="N" money="0" sharing="0"/>
+	<presetMsg id="underdogpm4" quote="Where, Oh Where has my Underdog gone, Oh where, oh where can he be?" aid="3949" enable="N" is_premium="N" money="0" sharing="0"/>
+	<presetMsg id="underdogpm5" quote="I'm Public Enemy Number One" aid="3950" enable="N" is_premium="N" money="0" sharing="0"/>
+	<presetMsg id="underdogpm6" quote="Simon says &quot;I'll take over the world&quot;" aid="3951" enable="N" is_premium="N" money="0" sharing="0"/>
+	<presetMsg id="underdogpm7" quote="Simon's wish is my command" aid="3952" enable="N" is_premium="N" money="0" sharing="0"/>
+	<presetMsg id="underdogpm8" quote="When Polly's in trouble I am not slow, it's Hip, Hip, Hip and away I go!" aid="3953" enable="N" is_premium="N" money="0" sharing="0"/>
 </theme>

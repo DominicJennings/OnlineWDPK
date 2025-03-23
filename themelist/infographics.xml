@@ -10529,4 +10529,34 @@
 	<part id="right" src="middleRight" grid="r" scale="h" anchor="tl"/>
 	<part id="bottom" src="bottomCenter" grid="b" scale="w"/>
 </flow>
+<char id="229868222" name="Untitled" cc_theme_id="infographics" thumbnail_url="stock_thumbs/229868222.png" copyable="Y">
+	<tags>infographics</tags>
+</char>
+<char id="229868204" name="Untitled" cc_theme_id="infographics" thumbnail_url="stock_thumbs/229868204.png" copyable="Y">
+	<tags>infographics</tags>
+</char>
+<char id="229868179" name="Untitled" cc_theme_id="infographics" thumbnail_url="stock_thumbs/229868179.png" copyable="Y">
+	<tags>infographics</tags>
+</char>
+<char id="229868109" name="Untitled" cc_theme_id="infographics" thumbnail_url="stock_thumbs/229868109.png" copyable="Y">
+	<tags>infographics</tags>
+</char>
+<char id="229868090" name="Untitled" cc_theme_id="infographics" thumbnail_url="stock_thumbs/229868090.png" copyable="Y">
+	<tags>infographics</tags>
+</char>
+<char id="229868079" name="Untitled" cc_theme_id="infographics" thumbnail_url="stock_thumbs/229868079.png" copyable="Y">
+	<tags>infographics</tags>
+</char>
+<char id="229868064" name="Untitled" cc_theme_id="infographics" thumbnail_url="stock_thumbs/229868064.png" copyable="Y">
+	<tags>infographics</tags>
+</char>
+<char id="229868050" name="Untitled" cc_theme_id="infographics" thumbnail_url="stock_thumbs/229868050.png" copyable="Y">
+	<tags>infographics</tags>
+</char>
+<char id="229868033" name="Untitled" cc_theme_id="infographics" thumbnail_url="stock_thumbs/229868033.png" copyable="Y">
+	<tags>infographics</tags>
+</char>
+<char id="229868014" name="Untitled" cc_theme_id="infographics" thumbnail_url="stock_thumbs/229868014.png" copyable="Y">
+	<tags>infographics</tags>
+</char>       
 </theme>

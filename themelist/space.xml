@@ -756,4 +756,20 @@
 	<effect id="ncc_sci003fx.swf" type="ANIME" resize="false" move="false" name="Screenviewer" enable="Y" is_premium="N" aid="14970" money="0" sharing="0" display_order="0"/>
 	<effect id="ncc_sci004fx.swf" type="ANIME" resize="false" move="false" name="Red alert" enable="Y" is_premium="N" aid="14971" money="0" sharing="0" display_order="0"/>
 	<effect id="ncc_sci005fx.swf" type="ANIME" resize="false" move="false" name="Ceiling Crumbling" enable="Y" is_premium="N" aid="14972" money="0" sharing="0" display_order="0"/>
+
+	<char id="72727497" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/72727497.png" copyable="Y">
+		<tags>space</tags>
+	</char>
+	<char id="72727500" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/72727500.png" copyable="Y">
+		<tags>space</tags>
+	</char>
+	<char id="72727501" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/72727501.png" copyable="Y">
+		<tags>space</tags>
+	</char>
+	<char id="72727502" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/72727502.png" copyable="Y">
+		<tags>space</tags>
+	</char>
+	<char id="72727503" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/72727503.png" copyable="Y">
+		<tags>space</tags>
+	</char>
 </theme>

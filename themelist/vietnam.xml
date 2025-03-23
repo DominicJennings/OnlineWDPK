@@ -241,4 +241,54 @@
 	</prop>
 	<prop id="rw_box.swf" name="Box" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12538" money="0" sharing="0"/>
 	<prop id="rw_sandbag.swf" name="Sand bag" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12539" money="0" sharing="0"/>
+
+<!--CHARACTERS-->
+<char id="40779341" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/40779341.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="41427171" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/41427171.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="40791840" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/40791840.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="43732823" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/43732823.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="55083933" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/55083933.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+<char id="40783961" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/40783961.png" copyable="Y">
+<tags>vietnam</tags>
+</char>
+
+<!--CHARACTERS ONLY FROM THE TEMPLATE-->
+<char id="55088392" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/55088392.png" copyable="Y">
+<tags>vietnam,_cat:Template</tags>
+</char>
+<char id="55095241" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/55095241.png" copyable="Y">
+<tags>vietnam,_cat:Template</tags>
+</char>
+<char id="55088777" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/55088777.png" copyable="Y">
+<tags>vietnam,_cat:Template</tags>
+</char>
+<char id="40781462" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/40781462.png" copyable="Y">
+<tags>vietnam,_cat:Template</tags>
+</char>
+<char id="55846640" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/55846640.png" copyable="Y">
+<tags>vietnam,_cat:Template</tags>
+</char>
+<char id="55846299" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/55846299.png" copyable="Y">
+<tags>vietnam,_cat:Template</tags>
+</char>
+<char id="55096155" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/55096155.png" copyable="Y">
+<tags>vietnam,_cat:Template</tags>
+</char>
+<char id="40786693" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/40786693.png" copyable="Y">
+<tags>vietnam,_cat:Template</tags>
+</char>
+<char id="40788052" name="Untitled" cc_theme_id="cc2" thumbnail_url="stock_thumbs/40788052.png" copyable="Y">
+<tags>vietnam,_cat:Template</tags>
+</char>
+
 </theme>

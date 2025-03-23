@@ -120,9 +120,9 @@
 		<facial id="head_neutral.swf" name="neutral" enable="Y" aid="8501"/>
 	</char>
 	<background id="outside_theater_hall.swf" name="Outside Theater Hall" enable="Y" default="Y" is_premium="N" aid="4587" money="0" sharing="0"/>
-	<background id="indoor_stage_bg.swf" name="" enable="Y" is_premium="N" aid="4588" money="0" sharing="0"/>
-	<background id="studio_bg.swf" name="" enable="Y" is_premium="N" aid="4725" money="0" sharing="0"/>
-	<background id="outdoor_stage_bg.swf" name="" enable="Y" is_premium="N" aid="4726" money="0" sharing="0"/>
+	<background id="indoor_stage_bg.swf" name="" enable="N" is_premium="N" aid="4588" money="0" sharing="0"/>
+	<background id="studio_bg.swf" name="" enable="N" is_premium="N" aid="4725" money="0" sharing="0"/>
+	<background id="outdoor_stage_bg.swf" name="" enable="N" is_premium="N" aid="4726" money="0" sharing="0"/>
 	<compositebg id="indoor_stage" name="indoor stage" thumb="indoor_stage.jpg" enable="Y" is_premium="N" aid="4589" money="0" sharing="0">
 	<bg id="indoor_stage_BG2" index="0">
 		<file>akon.indoor_stage_bg.swf</file>
@@ -213,12 +213,12 @@
 	<prop id="akon_mic.swf" name="Akon Mic" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4590" money="0" sharing="0"/>
 	<prop id="suv.swf" name="SUV" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4729" money="0" sharing="0"/>
 	<prop id="shades_hold.swf" name="Shades" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4730" money="0" sharing="0"/>
-	<prop id="outdoor_stage_drumset.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4731" money="0" sharing="0"/>
-	<prop id="outdoor_stage_frence.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4732" money="0" sharing="0"/>
-	<prop id="outdoor_stage_micset.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4733" money="0" sharing="0"/>
-	<prop id="studio_mic_set.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4734" money="0" sharing="0"/>
-	<prop id="studio_panal.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4735" money="0" sharing="0"/>
-	<prop id="studio_stool.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4736" money="0" sharing="0"/>
+	<prop id="outdoor_stage_drumset.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4731" money="0" sharing="0"/>
+	<prop id="outdoor_stage_frence.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4732" money="0" sharing="0"/>
+	<prop id="outdoor_stage_micset.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4733" money="0" sharing="0"/>
+	<prop id="studio_mic_set.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4734" money="0" sharing="0"/>
+	<prop id="studio_panal.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4735" money="0" sharing="0"/>
+	<prop id="studio_stool.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="4736" money="0" sharing="0"/>
 	<prop id="indoor_stage_dj_stage.swf" name="DJ Stage" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4601" money="0" sharing="0"/>
 	<prop id="indoor_stage_light.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="4600" money="0" sharing="0"/>
 	<prop id="homie_shutter_shades.swf" name="Ripley Shutter Shades" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="4599" money="0" sharing="0"/>
@@ -232,7 +232,7 @@
 	<prop id="homie_shades.swf" name="Ripley Shades" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="4598" money="0" sharing="0"/>
 	<prop id="christmas_hat.swf" name="Christmas Hat" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="4773" money="0" sharing="0"/>
 	<sound id="right_now_na_60s.mp3" name="Right Now (Na Na Na)" downloadtype="stream" subtype="bgmusic" duration="56137" enable="Y" is_premium="N" aid="4602" money="0" sharing="0"/>
-	<sound id="right_now_na_90s.mp3" name="Right Now (Na Na Na) 90s" downloadtype="stream" subtype="bgmusic" duration="97358" enable="Y" is_premium="N" aid="4603" money="0" sharing="0"/>
+	<sound id="right_now_na_90s.mp3" name="Right Now (Na Na Na) 90s" downloadtype="stream" subtype="bgmusic" duration="97358" enable="N" is_premium="N" aid="4603" money="0" sharing="0"/>
 	<sound id="be_with_you_60.mp3" name="Be with you" downloadtype="stream" subtype="bgmusic" duration="66330" enable="Y" is_premium="N" aid="4756" money="0" sharing="0"/>
 	<sound id="sound_keep_u_much_longer.mp3" name="Keep You Much Longer" downloadtype="stream" subtype="bgmusic" duration="62125" enable="Y" is_premium="N" aid="4774" money="0" sharing="0"/>
 </theme>

@@ -339,4 +339,80 @@
   <prop id="02sword03.swf" name="Sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="17530" money="0" sharing="0" handstyle="stick"/>
   <prop id="02sword04.swf" name="Sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="17531" money="0" sharing="0" handstyle="stick"/>
   <prop id="02sword05.swf" name="Sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="17532" money="0" sharing="0" handstyle="stick"/>
+<!--CHARACTERS-->
+<char id="127535416" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127535416.png" copyable="Y">
+<tags>ninjaanime,_cat:Guy</tags>
+</char>
+<char id="127535507" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127535507.png" copyable="Y">
+<tags>ninjaanime,_cat:Guy</tags>
+</char>
+<char id="127535622" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127535622.png" copyable="Y">
+<tags>ninjaanime,_cat:Girl</tags>
+</char>
+<char id="127535705" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127535705.png" copyable="Y">
+<tags>ninjaanime,_cat:Girl</tags>
+</char>
+<char id="127535841" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127535841.png" copyable="Y">
+<tags>ninjaanime,_cat:Girl</tags>
+</char>
+<char id="127536106" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127536106.png" copyable="Y">
+<tags>ninjaanime,_cat:Guy</tags>
+</char>
+<char id="127536345" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127536345.png" copyable="Y">
+<tags>ninjaanime,_cat:Girl</tags>
+</char>
+<char id="127536534" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127536534.png" copyable="Y">
+<tags>ninjaanime,_cat:Girl</tags>
+</char>
+<char id="127536853" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127536853.png" copyable="Y">
+<tags>ninjaanime,_cat:Guy</tags>
+</char>
+<char id="127537039" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127537039.png" copyable="Y">
+<tags>ninjaanime,_cat:Guy</tags>
+</char>
+<char id="127537116" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127537116.png" copyable="Y">
+<tags>ninjaanime,_cat:Girl</tags>
+</char>
+<char id="127537186" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127537186.png" copyable="Y">
+<tags>ninjaanime,_cat:Guy</tags>
+</char>
+<char id="127537241" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127537241.png" copyable="Y">
+<tags>ninjaanime,_cat:Girl</tags>
+</char>
+<char id="127537408" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127537408.png" copyable="Y">
+<tags>ninjaanime,_cat:Guy</tags>
+</char>
+<char id="127537512" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127537512.png" copyable="Y">
+<tags>ninjaanime,_cat:Guy</tags>
+</char>
+<char id="127537620" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127537620.png" copyable="Y">
+<tags>ninjaanime,_cat:Girl</tags>
+</char>
+<char id="127538003" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127538003.png" copyable="Y">
+<tags>ninjaanime,_cat:Girl</tags>
+</char>
+<char id="127540083" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127540083.png" copyable="Y">
+<tags>ninjaanime,_cat:Guy</tags>
+</char>
+<char id="127672948" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127672948.png" copyable="Y">
+<tags>ninjaanime,_cat:Guy</tags>
+</char>
+<char id="127673247" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127673247.png" copyable="Y">
+<tags>ninjaanime,_cat:Guy</tags>
+</char>
+<char id="127673431" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127673431.png" copyable="Y">
+<tags>ninjaanime,_cat:Girl</tags>
+</char>
+<char id="127673657" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127673657.png" copyable="Y">
+<tags>ninjaanime,_cat:Girl</tags>
+</char>
+<char id="127680191" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/127680191.png" copyable="Y">
+<tags>ninjaanime,_cat:Guy</tags>
+</char>
+<char id="129766798" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/129766798.png" copyable="Y">
+<tags>ninjaanime,_cat:Girl</tags>
+</char>
+<char id="129766867" name="Untitled" cc_theme_id="ninjaanime" thumbnail_url="stock_thumbs/129766867.png" copyable="Y">
+<tags>ninjaanime,_cat:Guy</tags>
+</char>
 </theme>

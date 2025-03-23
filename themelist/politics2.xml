@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<theme id="politics2" name="US Election 2012">
+<theme id="politics2" name="White Houserz">
 	<char id="char01" name="Char01" thumb="stand_side.swf" facing="left" default="stand_side.swf" motion="walk.swf" enable="N" is_premium="N" aid="12564" money="0" sharing="0">
 		<action id="thinking.swf" name="Thinking" loop="Y" totalframe="100" enable="N" aid="12565"/>
 		<action id="happy.swf" name="Laugh" loop="Y" totalframe="100" enable="N" aid="12566"/>

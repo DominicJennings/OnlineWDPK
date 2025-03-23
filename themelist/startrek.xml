@@ -35,8 +35,8 @@
 			<action id="drop_kick.swf" name="drop kick" loop="Y" totalframe="50" enable="Y" aid="5637"/>
 		</category>
 		<category name="lying down">
-			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="5034"/>
-			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="5694"/>
+			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="N" aid="5034"/>
+			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="N" aid="5694"/>
 			<action id="knock_out2.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="7268"/>
 			<action id="get_stun_still2.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="7269"/>
 		</category>
@@ -107,8 +107,8 @@
 			<action id="punch.swf" name="punch" loop="Y" totalframe="37" enable="Y" aid="5646"/>
 		</category>
 		<category name="lying down">
-			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="5082"/>
-			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="5696"/>
+			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="N" aid="5082"/>
+			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="N" aid="5696"/>
 			<action id="knock_out2.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="7270"/>
 			<action id="get_stun_still2.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="7271"/>
 		</category>
@@ -182,8 +182,8 @@
 			<action id="stun_still.swf" name="point phaser" loop="Y" totalframe="40" enable="Y" aid="5133"/>
 		</category>
 		<category name="lying down">
-			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="5131"/>
-			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="5697"/>
+			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="N" aid="5131"/>
+			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="N" aid="5697"/>
 			<action id="knock_out2.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="7287"/>
 			<action id="get_stun_still2.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="7288"/>
 		</category>
@@ -256,8 +256,8 @@
 			<action id="fencing.swf" name="Fencing Strike" loop="Y" totalframe="103" enable="Y" aid="5183"/>
 		</category>
 		<category name="lying down">
-			<action id="knocked_out.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="5184"/>
-			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="5698"/>
+			<action id="knocked_out.swf" name="sleeping" loop="Y" totalframe="50" enable="N" aid="5184"/>
+			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="N" aid="5698"/>
 			<action id="knocked_out2.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="7272"/>
 			<action id="get_stun_still2.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="7273"/>
 		</category>
@@ -326,8 +326,8 @@
 			<action id="stun_still.swf" name="point phaser" loop="Y" totalframe="40" enable="Y" aid="5229"/>
 		</category>
 		<category name="lying down">
-			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="5227"/>
-			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="5695"/>
+			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="N" aid="5227"/>
+			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="N" aid="5695"/>
 			<action id="knock_out2.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="7274"/>
 			<action id="get_stun_still2.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="7275"/>
 		</category>
@@ -400,8 +400,8 @@
 			<action id="stun_still.swf" name="point phaser" loop="Y" totalframe="40" enable="Y" aid="5391"/>
 		</category>
 		<category name="lying down">
-			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="5389"/>
-			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="5688"/>
+			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="N" aid="5389"/>
+			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="N" aid="5688"/>
 			<action id="knock_out2.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="7276"/>
 			<action id="get_stun_still2.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="7277"/>
 		</category>
@@ -474,8 +474,8 @@
 			<action id="stun_still.swf" name="point phaser" loop="Y" totalframe="40" enable="Y" aid="5443"/>
 		</category>
 		<category name="lying down">
-			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="5441"/>
-			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="5689"/>
+			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="N" aid="5441"/>
+			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="N" aid="5689"/>
 			<action id="knock_out2.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="7278"/>
 			<action id="get_stun_still2.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="7279"/>
 		</category>
@@ -513,7 +513,7 @@
 		<facial id="head_sad.swf" name="sad" enable="Y" aid="5469"/>
 		<facial id="head_neutral.swf" name="neutral" enable="Y" aid="8483"/>
 	</char>
-	<char id="khan" name="Khan" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="5470" money="0" sharing="400">
+	<char id="khan" name="Khan" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="5470" money="0" sharing="0">
 		<category name="beamed">
 			<action id="materialized.swf" name="materialize" loop="Y" totalframe="1" enable="Y" aid="5473"/>
 			<action id="dematerialized.swf" name="de-materialize" loop="Y" totalframe="1" enable="Y" aid="5474"/>
@@ -540,8 +540,8 @@
 			<action id="stun_still.swf" name="point phaser" loop="Y" totalframe="40" enable="Y" aid="5490"/>
 		</category>
 		<category name="lying down">
-			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="5488"/>
-			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="5691"/>
+			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="N" aid="5488"/>
+			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="N" aid="5691"/>
 			<action id="knock_out2.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="7280"/>
 			<action id="get_stun_still2.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="7281"/>
 		</category>
@@ -569,7 +569,7 @@
 		<facial id="head_sad.swf" name="sad" enable="Y" aid="5510"/>
 		<facial id="head_neutral.swf" name="neutral" enable="Y" aid="8484"/>
 	</char>
-	<char id="kang" name="Kang" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="5511" money="0" sharing="400">
+	<char id="kang" name="Kang" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="5511" money="0" sharing="0">
 		<category name="beamed">
 			<action id="materialized.swf" name="materialize" loop="Y" totalframe="1" enable="Y" aid="5514"/>
 			<action id="dematerialized.swf" name="de-materialize" loop="Y" totalframe="1" enable="Y" aid="5515"/>
@@ -597,8 +597,8 @@
 			<action id="sword_attack.swf" name="sword strike" loop="Y" totalframe="100" enable="Y" aid="5532"/>
 		</category>
 		<category name="lying down">
-			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="5529"/>
-			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="5692"/>
+			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="N" aid="5529"/>
+			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="N" aid="5692"/>
 			<action id="knock_out2.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="7282"/>
 			<action id="get_stun_still2.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="7283"/>
 		</category>
@@ -630,7 +630,7 @@
 		<facial id="head_sad.swf" name="sad" enable="Y" aid="5554"/>
 		<facial id="head_neutral.swf" name="neutral" enable="Y" aid="8485"/>
 	</char>
-	<char id="orion" name="Orion" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="5555" money="400" sharing="0">
+	<char id="orion" name="Orion" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="5555" money="0" sharing="0">
 		<category name="beamed">
 			<action id="materialized.swf" name="materialize" loop="Y" totalframe="1" enable="Y" aid="5558"/>
 			<action id="dematerialized.swf" name="de-materialize" loop="Y" totalframe="1" enable="Y" aid="5559"/>
@@ -652,7 +652,7 @@
 		<action id="sitting.swf" name="sitting" loop="Y" totalframe="83" enable="Y" aid="5568"/>
 		<action id="talk.swf" name="talk" loop="Y" totalframe="100" enable="Y" aid="5569"/>
 		<action id="kiss.swf" name="kiss" loop="Y" totalframe="95" enable="Y" aid="5570"/>
-		<action id="lying_down.swf" name="lying down" loop="Y" totalframe="94" enable="Y" aid="5571"/>
+		<action id="lying_down.swf" name="lying down" loop="Y" totalframe="94" enable="N" aid="5571"/>
 		<action id="faint.swf" name="faint" loop="Y" totalframe="110" enable="Y" aid="5572"/>
 		<action id="tempt.swf" name="flirt" loop="Y" totalframe="86" enable="Y" aid="5573"/>
 		<motion id="run.swf" name="run" loop="Y" totalframe="16" enable="Y" aid="5574"/>
@@ -674,7 +674,7 @@
 		<action id="lying_down2.swf" name="lying down" loop="Y" totalframe="94" enable="Y" aid="7286"/>
 		<facial id="head_neutral.swf" name="neutral" enable="Y" aid="8486"/>
 	</char>
-	<char id="mirror_spock" name="Mirror Spock" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="5590" money="400" sharing="0">
+	<char id="mirror_spock" name="Mirror Spock" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="5590" money="0" sharing="0">
 		<category name="beamed">
 			<action id="materialized.swf" name="materialize" loop="Y" totalframe="1" enable="Y" aid="5593"/>
 			<action id="dematerialized.swf" name="de-materialize" loop="Y" totalframe="1" enable="Y" aid="5594"/>
@@ -701,8 +701,8 @@
 			<action id="punch.swf" name="punch" loop="Y" totalframe="42" enable="Y" aid="5610"/>
 		</category>
 		<category name="lying down">
-			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="5607"/>
-			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="5693"/>
+			<action id="knock_out.swf" name="sleeping" loop="Y" totalframe="50" enable="N" aid="5607"/>
+			<action id="get_stun_still.swf" name="knock out" loop="Y" totalframe="1" enable="N" aid="5693"/>
 			<action id="knock_out2.swf" name="sleeping" loop="Y" totalframe="50" enable="Y" aid="7284"/>
 			<action id="get_stun_still2.swf" name="knock out" loop="Y" totalframe="1" enable="Y" aid="7285"/>
 		</category>
@@ -800,7 +800,7 @@
 		<facial id="head_laugh.swf" name="laugh" enable="Y" aid="7068"/>
 		<facial id="head_neutral.swf" name="neutral" enable="Y" aid="8488"/>
 	</char>
-	<char id="crewman2" name="Crewman 2" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="7069" money="0" sharing="40">
+	<char id="crewman2" name="Crewman 2" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="7069" money="0" sharing="0">
 		<category name="beamed">
 			<action id="materialized.swf" name="materialize" loop="Y" totalframe="40" enable="Y" aid="7072"/>
 			<action id="dematerialized.swf" name="de-materialize" loop="Y" totalframe="40" enable="Y" aid="7073"/>
@@ -925,7 +925,7 @@
 		<facial id="head_in_love.swf" name="in love" enable="Y" aid="7165"/>
 		<facial id="head_neutral.swf" name="neutral" enable="Y" aid="8490"/>
 	</char>
-	<char id="crewman1" name="Crewman 1" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="7166" money="0" sharing="40">
+	<char id="crewman1" name="Crewman 1" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="7166" money="0" sharing="0">
 		<category name="beamed">
 			<action id="materialized.swf" name="materialize" loop="Y" totalframe="40" enable="Y" aid="7169"/>
 			<action id="dematerialized.swf" name="de-materialized" loop="Y" totalframe="40" enable="Y" aid="7170"/>
@@ -1058,23 +1058,23 @@
 		<facial id="head_neutral.swf" name="neutral" enable="Y" aid="8492"/>
 	</char>
 	<background id="enterprise_coming.swf" name="Enterprise Coming" enable="Y" is_premium="N" aid="5255" money="0" sharing="0"/>
-	<background id="portal_bg.swf" name="" enable="Y" is_premium="N" aid="7292" money="0" sharing="0"/>
-	<background id="capelaIV_bg.swf" name="" enable="Y" is_premium="N" aid="7291" money="0" sharing="0"/>
-	<background id="amok_time_bg.swf" name="" enable="Y" is_premium="N" aid="7290" money="0" sharing="0"/>
-	<background id="adonais_bg.swf" name="" enable="Y" is_premium="N" aid="7289" money="0" sharing="0"/>
-	<background id="outer_space2.swf" name="Outer Space 2" enable="Y" is_premium="N" aid="5699" money="0" sharing="0"/>
-	<background id="klingon_ship_bridge_bg.swf" name="klingon ship bridge" enable="Y" is_premium="N" aid="5657" money="0" sharing="0"/>
-	<background id="engineering_room_bg.swf" name="engineering room" enable="Y" is_premium="N" aid="5656" money="0" sharing="0"/>
-	<background id="vulcan_langon_mountain_bg.swf" name="" enable="Y" is_premium="N" aid="5264" money="0" sharing="0"/>
-	<background id="vulcan_surface_bg.swf" name="" enable="Y" is_premium="N" aid="5263" money="0" sharing="0"/>
-	<background id="hallway_bg.swf" name="" enable="Y" is_premium="N" aid="5262" money="0" sharing="0"/>
-	<background id="transporter_room_bg.swf" name="" enable="Y" is_premium="N" aid="5261" money="0" sharing="0"/>
-	<background id="sickbay_bg.swf" name="" enable="Y" is_premium="N" aid="5260" money="0" sharing="0"/>
-	<background id="bridge_side_bg.swf" name="" enable="Y" is_premium="N" aid="5259" money="0" sharing="0"/>
-	<background id="bridge_bg.swf" name="" enable="Y" is_premium="N" aid="5258" money="0" sharing="0"/>
+	<background id="portal_bg.swf" name="" enable="N" is_premium="N" aid="7292" money="0" sharing="0"/>
+	<background id="capelaIV_bg.swf" name="" enable="N" is_premium="N" aid="7291" money="0" sharing="0"/>
+	<background id="amok_time_bg.swf" name="" enable="N" is_premium="N" aid="7290" money="0" sharing="0"/>
+	<background id="adonais_bg.swf" name="" enable="N" is_premium="N" aid="7289" money="0" sharing="0"/>
+	<background id="outer_space2.swf" name="Outer Space 2" enable="N" is_premium="N" aid="5699" money="0" sharing="0"/>
+	<background id="klingon_ship_bridge_bg.swf" name="klingon ship bridge" enable="N" is_premium="N" aid="5657" money="0" sharing="0"/>
+	<background id="engineering_room_bg.swf" name="engineering room" enable="N" is_premium="N" aid="5656" money="0" sharing="0"/>
+	<background id="vulcan_langon_mountain_bg.swf" name="" enable="N" is_premium="N" aid="5264" money="0" sharing="0"/>
+	<background id="vulcan_surface_bg.swf" name="" enable="N" is_premium="N" aid="5263" money="0" sharing="0"/>
+	<background id="hallway_bg.swf" name="" enable="N" is_premium="N" aid="5262" money="0" sharing="0"/>
+	<background id="transporter_room_bg.swf" name="" enable="N" is_premium="N" aid="5261" money="0" sharing="0"/>
+	<background id="sickbay_bg.swf" name="" enable="N" is_premium="N" aid="5260" money="0" sharing="0"/>
+	<background id="bridge_side_bg.swf" name="" enable="N" is_premium="N" aid="5259" money="0" sharing="0"/>
+	<background id="bridge_bg.swf" name="" enable="N" is_premium="N" aid="5258" money="0" sharing="0"/>
 	<background id="outer_space.swf" name="Outer Space" enable="Y" is_premium="N" aid="5257" money="0" sharing="0"/>
 	<background id="enterprise_leaving.swf" name="Enterprise Leaving" enable="Y" is_premium="N" aid="5256" money="0" sharing="0"/>
-	<background id="pyrus_bg.swf" name="" enable="Y" is_premium="N" aid="7293" money="0" sharing="0"/>
+	<background id="pyrus_bg.swf" name="" enable="N" is_premium="N" aid="7293" money="0" sharing="0"/>
 	<compositebg id="bridge_cbg" name="Bridge" enable="Y" default="Y" thumb="bridge.jpg" thumb_src_path="" display_order="0" is_premium="N" money="0" sharing="0" aid="5265">
 	<bg id="bridge_cbg_BG1" index="0">
 		<file>startrek.bridge_bg.swf</file>
@@ -1600,7 +1600,7 @@
 		<rotation>0</rotation>
 	</prop>
 </compositebg>
-	<prop id="klingon_battle_cruiser_side_c.swf" name="Klingon Battle Cruiser side phaser" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5670" money="0" sharing="0"/>
+	<prop id="klingon_battle_cruiser_side_c.swf" name="Klingon Battle Cruiser side phaser" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5670" money="0" sharing="0"/>
 	<prop id="earth.swf" name="Earth" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5701" money="0" sharing="0"/>
 	<prop id="msp_k_b_c_34_t" name="Klingon Battle Cruiser 3/4 Top" holdable="0" placeable="1" wearable="0" facing="left" thumb="klingon_battle_cruiser_34_top_a_s.swf" enable="Y" is_premium="N" aid="5708" money="0" sharing="0">
 		<state id="klingon_battle_cruiser_34_top_a_s.swf" name="default" enable="Y" default="Y"/>
@@ -1645,18 +1645,18 @@
 		<state id="bridge_side_door_opened.swf" name="opened" enable="Y"/>
 		<state id="bridge_side_door_closed.swf" name="closed" enable="Y"/>
 	</prop>
-	<prop id="klingon_ship_bridge_periscope.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5682" money="0" sharing="0"/>
-	<prop id="klingon_ship_bridge_panel.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5681" money="0" sharing="0"/>
-	<prop id="klingon_battle_cruiser_34_top_a.swf" name="Klingon Battle Cruiser 3/4 top default" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5671" money="0" sharing="0"/>
-	<prop id="klingon_battle_cruiser_34_top_b.swf" name="Klingon Battle Cruiser 3/4 top torpedo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5672" money="0" sharing="0"/>
-	<prop id="klingon_battle_cruiser_34_top_c.swf" name="Klingon Battle Cruiser 3/4 top phaser" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5673" money="0" sharing="0"/>
-	<prop id="klingon_battle_cruiser_34_bot_a.swf" name="Klingon Battle Cruiser 3/4 bot default" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5674" money="0" sharing="0"/>
-	<prop id="klingon_battle_cruiser_34_bot_b.swf" name="Klingon Battle Cruiser 3/4 bot torpedo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5675" money="0" sharing="0"/>
-	<prop id="klingon_battle_cruiser_34_bot_c.swf" name="Klingon Battle Cruiser 3/4 bot phaser" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5676" money="0" sharing="0"/>
-	<prop id="engineering_room_machine.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5677" money="0" sharing="0"/>
-	<prop id="engineering_room_box.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5678" money="0" sharing="0"/>
-	<prop id="klingon_ship_bridge_door.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5679" money="0" sharing="0"/>
-	<prop id="klingon_ship_bridge_front.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5680" money="0" sharing="0"/>
+	<prop id="klingon_ship_bridge_periscope.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5682" money="0" sharing="0"/>
+	<prop id="klingon_ship_bridge_panel.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5681" money="0" sharing="0"/>
+	<prop id="klingon_battle_cruiser_34_top_a.swf" name="Klingon Battle Cruiser 3/4 top default" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5671" money="0" sharing="0"/>
+	<prop id="klingon_battle_cruiser_34_top_b.swf" name="Klingon Battle Cruiser 3/4 top torpedo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5672" money="0" sharing="0"/>
+	<prop id="klingon_battle_cruiser_34_top_c.swf" name="Klingon Battle Cruiser 3/4 top phaser" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5673" money="0" sharing="0"/>
+	<prop id="klingon_battle_cruiser_34_bot_a.swf" name="Klingon Battle Cruiser 3/4 bot default" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5674" money="0" sharing="0"/>
+	<prop id="klingon_battle_cruiser_34_bot_b.swf" name="Klingon Battle Cruiser 3/4 bot torpedo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5675" money="0" sharing="0"/>
+	<prop id="klingon_battle_cruiser_34_bot_c.swf" name="Klingon Battle Cruiser 3/4 bot phaser" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5676" money="0" sharing="0"/>
+	<prop id="engineering_room_machine.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5677" money="0" sharing="0"/>
+	<prop id="engineering_room_box.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5678" money="0" sharing="0"/>
+	<prop id="klingon_ship_bridge_door.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5679" money="0" sharing="0"/>
+	<prop id="klingon_ship_bridge_front.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5680" money="0" sharing="0"/>
 	<prop id="msp_hallway_open" name="Hallway Door" holdable="0" placeable="1" wearable="0" facing="left" thumb="hallway_door_opening.swf" enable="Y" is_premium="N" aid="6013" money="0" sharing="0">
 		<state id="hallway_door_opening.swf" name="opening" enable="Y" default="Y"/>
 		<state id="hallway_door_closing.swf" name="closing" enable="Y"/>
@@ -1698,54 +1698,54 @@
 		<state id="msp_portal_portal_main.swf" name="off" enable="Y" default="Y"/>
 		<state id="msp_portal_portal_main_glow.swf" name="on" enable="Y"/>
 	</prop>
-	<prop id="bridge_station.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5272" money="0" sharing="0"/>
-	<prop id="transporter_room_machine.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5285" money="0" sharing="0"/>
-	<prop id="hallway_front.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5286" money="0" sharing="0"/>
-	<prop id="hallway_door.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5287" money="0" sharing="0"/>
-	<prop id="vulcan_surface_front.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5288" money="0" sharing="0"/>
+	<prop id="bridge_station.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5272" money="0" sharing="0"/>
+	<prop id="transporter_room_machine.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5285" money="0" sharing="0"/>
+	<prop id="hallway_front.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5286" money="0" sharing="0"/>
+	<prop id="hallway_door.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5287" money="0" sharing="0"/>
+	<prop id="vulcan_surface_front.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5288" money="0" sharing="0"/>
 	<prop id="volcano2.swf" name="Volcano 2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5289" money="0" sharing="0"/>
 	<prop id="volcano1.swf" name="Volcano 1" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5290" money="0" sharing="0"/>
-	<prop id="vulcan_langon_mountain_front.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5291" money="0" sharing="0"/>
-	<prop id="vulcan_langon_mountain_city.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5292" money="0" sharing="0"/>
-	<prop id="startrek_phaser.swf" name="phaser" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5293" money="0" sharing="0"/>
-	<prop id="startrek_phaser_shoot.swf" name="phaser (shooting)" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5294" money="0" sharing="0"/>
-	<prop id="transporter_room_stair.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5284" money="0" sharing="0"/>
-	<prop id="sickbay_bed1.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5283" money="0" sharing="0"/>
-	<prop id="bridge_fence_ft.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5273" money="0" sharing="0"/>
-	<prop id="bridge_fence_bk.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5274" money="0" sharing="0"/>
-	<prop id="bridge_door.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5275" money="0" sharing="0"/>
-	<prop id="bridge_chair.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5276" money="0" sharing="0"/>
-	<prop id="bridge_captain_chair.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5277" money="0" sharing="0"/>
-	<prop id="bridge_side_fence.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5278" money="0" sharing="0"/>
-	<prop id="bridge_side_door.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5279" money="0" sharing="0"/>
-	<prop id="bridge_side_chair.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5280" money="0" sharing="0"/>
-	<prop id="sickbay_front.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5281" money="0" sharing="0"/>
-	<prop id="sickbay_bed2.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5282" money="0" sharing="0"/>
+	<prop id="vulcan_langon_mountain_front.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5291" money="0" sharing="0"/>
+	<prop id="vulcan_langon_mountain_city.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5292" money="0" sharing="0"/>
+	<prop id="startrek_phaser.swf" name="phaser" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5293" money="0" sharing="0"/>
+	<prop id="startrek_phaser_shoot.swf" name="phaser (shooting)" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5294" money="0" sharing="0"/>
+	<prop id="transporter_room_stair.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5284" money="0" sharing="0"/>
+	<prop id="sickbay_bed1.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5283" money="0" sharing="0"/>
+	<prop id="bridge_fence_ft.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5273" money="0" sharing="0"/>
+	<prop id="bridge_fence_bk.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5274" money="0" sharing="0"/>
+	<prop id="bridge_door.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5275" money="0" sharing="0"/>
+	<prop id="bridge_chair.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5276" money="0" sharing="0"/>
+	<prop id="bridge_captain_chair.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5277" money="0" sharing="0"/>
+	<prop id="bridge_side_fence.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5278" money="0" sharing="0"/>
+	<prop id="bridge_side_door.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5279" money="0" sharing="0"/>
+	<prop id="bridge_side_chair.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5280" money="0" sharing="0"/>
+	<prop id="sickbay_front.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5281" money="0" sharing="0"/>
+	<prop id="sickbay_bed2.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5282" money="0" sharing="0"/>
 	<prop id="communicator.swf" name="Communicator" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5295" money="0" sharing="0"/>
 	<prop id="scanner.swf" name="Scanner" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5296" money="0" sharing="0"/>
 	<prop id="viewscreen.swf" name="Viewscreen" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5309" money="0" sharing="0"/>
-	<prop id="enterprise_side_shooting.swf" name="enterprise shooting(side view)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5660" money="0" sharing="0"/>
+	<prop id="enterprise_side_shooting.swf" name="enterprise shooting(side view)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5660" money="0" sharing="0"/>
 	<prop id="hypospray.swf" name="Hypospray" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5661" money="0" sharing="0"/>
 	<prop id="brandy_bottle.swf" name="Saurian Brandy Bottle" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5662" money="0" sharing="0"/>
-	<prop id="klingon_phaser.swf" name="Klingon phaser" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5663" money="0" sharing="0"/>
-	<prop id="klingon_phaser_shoot.swf" name="Klingon phaser - firing" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5664" money="0" sharing="0"/>
+	<prop id="klingon_phaser.swf" name="Klingon phaser" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5663" money="0" sharing="0"/>
+	<prop id="klingon_phaser_shoot.swf" name="Klingon phaser - firing" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5664" money="0" sharing="0"/>
 	<prop id="klingon_sword.swf" name="Sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5665" money="0" sharing="0"/>
 	<prop id="bag_pipe.swf" name="Bag Pipe" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5666" money="0" sharing="0"/>
 	<prop id="wine_bottle.swf" name="Whiskey Bottle" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5667" money="0" sharing="0"/>
-	<prop id="klingon_battle_cruiser_side_a.swf" name="Klingon Battle Cruiser side default" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5668" money="0" sharing="0"/>
+	<prop id="klingon_battle_cruiser_side_a.swf" name="Klingon Battle Cruiser side default" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5668" money="0" sharing="0"/>
 	<prop id="lute.swf" name="Vulcan Lute" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5308" money="0" sharing="0"/>
 	<prop id="wine_glass.swf" name="Wine Glass" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5307" money="0" sharing="0"/>
 	<prop id="mccoy_scanner.swf" name="Medical Tricorder" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5297" money="0" sharing="0"/>
 	<prop id="fencing_foil.swf" name="Fencing Foil" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5298" money="0" sharing="0"/>
 	<prop id="uhura_ear_piece.swf" name="Ear Piece" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5299" money="0" sharing="0"/>
-	<prop id="enterprise_front.swf" name="Enterprise" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5300" money="0" sharing="0"/>
-	<prop id="enterprise_shoot.swf" name="enterprise shooting" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5301" money="0" sharing="0"/>
-	<prop id="enterprise_side.swf" name="Enterprise (side view)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5302" money="0" sharing="0"/>
+	<prop id="enterprise_front.swf" name="Enterprise" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5300" money="0" sharing="0"/>
+	<prop id="enterprise_shoot.swf" name="enterprise shooting" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5301" money="0" sharing="0"/>
+	<prop id="enterprise_side.swf" name="Enterprise (side view)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5302" money="0" sharing="0"/>
 	<prop id="tribble1.swf" name="Tribble01" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5303" money="0" sharing="0"/>
 	<prop id="tribble2.swf" name="Tribble02" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5304" money="0" sharing="0"/>
 	<prop id="tribble3.swf" name="Tribble03" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5305" money="0" sharing="0"/>
 	<prop id="data_tablet.swf" name="Data Tablet" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5306" money="0" sharing="0"/>
-	<prop id="klingon_battle_cruiser_side_b.swf" name="Klingon Battle Cruiser side torpedo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5669" money="0" sharing="0"/>
+	<prop id="klingon_battle_cruiser_side_b.swf" name="Klingon Battle Cruiser side torpedo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5669" money="0" sharing="0"/>
 	<sound id="Alien_Planet_Atmosphere.mp3" name="Alien Planet Atmosphere" downloadtype="progressive" subtype="soundeffect" duration="114993" enable="Y" is_premium="N" aid="5310" money="0" sharing="0"/>
 	<sound id="Alien_Planet_Surface.mp3" name="Alien Planet Surface" downloadtype="progressive" subtype="soundeffect" duration="95296" enable="Y" is_premium="N" aid="5311" money="0" sharing="0"/>
 	<sound id="Atavarcon.mp3" name="Atavarcon" downloadtype="progressive" subtype="soundeffect" duration="24662" enable="Y" is_premium="N" aid="5312" money="0" sharing="0"/>
@@ -1754,14 +1754,14 @@
 	<sound id="Buttons_on_the_Bridge.mp3" name="Buttons on the Bridge" downloadtype="progressive" subtype="soundeffect" duration="14423" enable="Y" is_premium="N" aid="5315" money="0" sharing="0"/>
 	<sound id="Comedy_Background_FX.mp3" name="Comedy Background FX" downloadtype="progressive" subtype="soundeffect" duration="23932" enable="Y" is_premium="N" aid="5316" money="0" sharing="0"/>
 	<sound id="Communicator.swf" name="Communicator" downloadtype="embed" subtype="soundeffect" duration="1334" enable="Y" is_premium="N" aid="5317" money="0" sharing="0"/>
-	<sound id="Computer_DIA_Accomplished.swf" name="Computer DIA Accomplished" downloadtype="embed" subtype="soundeffect" duration="1950" enable="Y" is_premium="N" aid="5318" money="0" sharing="0"/>
-	<sound id="Computer_DIA_Affirmative.swf" name="Computer DIA Affirmative" downloadtype="embed" subtype="soundeffect" duration="653" enable="Y" is_premium="N" aid="5319" money="0" sharing="0"/>
-	<sound id="Computer_DIA_Computer_Working.swf" name="Computer DIA Computer Working" downloadtype="embed" subtype="soundeffect" duration="1133" enable="Y" is_premium="N" aid="5320" money="0" sharing="0"/>
-	<sound id="Computer_DIA_Data_being_received.swf" name="Computer DIA Data being received" downloadtype="embed" subtype="soundeffect" duration="1608" enable="Y" is_premium="N" aid="5321" money="0" sharing="0"/>
-	<sound id="Computer_DIA_Insufficient.swf" name="Computer DIA Insufficient" downloadtype="embed" subtype="soundeffect" duration="3246" enable="Y" is_premium="N" aid="5322" money="0" sharing="0"/>
-	<sound id="Computer_DIA_Library_computer.swf" name="Computer DIA Library computer" downloadtype="embed" subtype="soundeffect" duration="1230" enable="Y" is_premium="N" aid="5323" money="0" sharing="0"/>
-	<sound id="Computer_DIA_Type_unknown.swf" name="Computer DIA Type unknown" downloadtype="embed" subtype="soundeffect" duration="1349" enable="Y" is_premium="N" aid="5324" money="0" sharing="0"/>
-	<sound id="Computer_DIA_Working.swf" name="Computer DIA Working" downloadtype="embed" subtype="soundeffect" duration="484" enable="Y" is_premium="N" aid="5325" money="0" sharing="0"/>
+	<sound id="Computer_DIA_Accomplished.swf" name="Computer DIA Accomplished" downloadtype="embed" subtype="voiceover" duration="1950" enable="Y" is_premium="N" aid="5318" money="0" sharing="0"/>
+	<sound id="Computer_DIA_Affirmative.swf" name="Computer DIA Affirmative" downloadtype="embed" subtype="voiceover" duration="653" enable="Y" is_premium="N" aid="5319" money="0" sharing="0"/>
+	<sound id="Computer_DIA_Computer_Working.swf" name="Computer DIA Computer Working" downloadtype="embed" subtype="voiceover" duration="1133" enable="Y" is_premium="N" aid="5320" money="0" sharing="0"/>
+	<sound id="Computer_DIA_Data_being_received.swf" name="Computer DIA Data being received" downloadtype="embed" subtype="voiceover" duration="1608" enable="Y" is_premium="N" aid="5321" money="0" sharing="0"/>
+	<sound id="Computer_DIA_Insufficient.swf" name="Computer DIA Insufficient" downloadtype="embed" subtype="voiceover" duration="3246" enable="Y" is_premium="N" aid="5322" money="0" sharing="0"/>
+	<sound id="Computer_DIA_Library_computer.swf" name="Computer DIA Library computer" downloadtype="embed" subtype="voiceover" duration="1230" enable="Y" is_premium="N" aid="5323" money="0" sharing="0"/>
+	<sound id="Computer_DIA_Type_unknown.swf" name="Computer DIA Type unknown" downloadtype="embed" subtype="voiceover" duration="1349" enable="Y" is_premium="N" aid="5324" money="0" sharing="0"/>
+	<sound id="Computer_DIA_Working.swf" name="Computer DIA Working" downloadtype="embed" subtype="voiceover" duration="484" enable="Y" is_premium="N" aid="5325" money="0" sharing="0"/>
 	<sound id="Corridor.mp3" name="Corridor" downloadtype="progressive" subtype="soundeffect" duration="30567" enable="Y" is_premium="N" aid="5326" money="0" sharing="0"/>
 	<sound id="Eminar_7_Battle_Computer.mp3" name="Eminar 7 Battle Computer" downloadtype="progressive" subtype="soundeffect" duration="17166" enable="Y" is_premium="N" aid="5327" money="0" sharing="0"/>
 	<sound id="Engineering_Room.mp3" name="Engineering Room" downloadtype="progressive" subtype="soundeffect" duration="28059" enable="Y" is_premium="N" aid="5328" money="0" sharing="0"/>
