@@ -2,6 +2,9 @@
 <theme id="whiteboard" name="Whiteboard Animation" cc_theme_id="whiteboard">
 	<background id="g4b_bg001.swf" name="Plain" enable="Y" default="Y" is_premium="N" aid="23025" money="0" sharing="0"/>
 	<compositebg id="cbg_055" name="Office" enable="Y" default="N" thumb="cbg_055.png" display_order="1" is_premium="N" money="0" sharing="0" aid="23073">
+		<bg id="cbg_055_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_055_PROP7" index="5">
 		<file>whiteboard.g4b_618.swf</file>
 		<x>424</x>
@@ -64,6 +67,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_056" name="Meeting room" enable="Y" default="N" thumb="cbg_056.png" display_order="1" is_premium="N" money="0" sharing="0" aid="23074">
+		<bg id="cbg_056_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_056_PROP11" index="1">
 		<file>whiteboard.g4b_606.swf</file>
 		<x>327.2</x>
@@ -111,6 +117,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_057" name="Office pantry" enable="Y" default="N" thumb="cbg_057.png" display_order="1" is_premium="N" money="0" sharing="0" aid="23075">
+		<bg id="cbg_057_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_057_PROP15" index="4">
 		<file>whiteboard.g4b_615.swf</file>
 		<x>360.1</x>
@@ -193,7 +202,10 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_058" name="Office room" enable="Y" default="N" thumb="cbg_058.png" display_order="1" is_premium="N" money="0" sharing="0" aid="23076">
-	<prop id="cbg_058_PROP22" index="5">
+		<bg id="cbg_058_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
+	<prop id="cbg_058_PROP04" index="5">
 		<file>whiteboard.g4b_618.swf</file>
 		<x>444.3</x>
 		<y>231.4</y>
@@ -255,6 +267,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_059" name="Copier" enable="Y" default="N" thumb="cbg_059.png" display_order="1" is_premium="N" money="0" sharing="0" aid="23077">
+		<bg id="cbg_059_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_059_PROP7" index="1">
 		<file>whiteboard.msp_copier.msp_copier_g4b_623.swf</file>
 		<x>267.1</x>
@@ -284,6 +299,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_060" name="Lift" enable="Y" default="N" thumb="cbg_060.png" display_order="1" is_premium="N" money="0" sharing="0" aid="23078">
+		<bg id="cbg_060_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_060_PROP3" index="1">
 		<file>whiteboard.msp_lift.msp_lift_g4b_627.swf</file>
 		<x>323</x>
@@ -313,6 +331,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_049" name="Dining room" enable="Y" default="N" thumb="cbg_049.png" display_order="2" is_premium="N" money="0" sharing="0" aid="23026">
+		<bg id="cbg_049_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_049_PROP17" index="9">
 		<file>whiteboard.g4b_583.swf</file>
 		<x>322</x>
@@ -405,6 +426,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_051" name="Study room" enable="Y" default="N" thumb="cbg_051.png" display_order="2" is_premium="N" money="0" sharing="0" aid="23069">
+		<bg id="cbg_051_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_051_PROP8" index="2">
 		<file>whiteboard.g4b_587.swf</file>
 		<x>277.3</x>
@@ -437,6 +461,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_052" name="Study room" enable="Y" default="N" thumb="cbg_052.png" display_order="2" is_premium="N" money="0" sharing="0" aid="23070">
+		<bg id="cbg_052_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_052_PROP9" index="2">
 		<file>whiteboard.g4b_590.swf</file>
 		<x>196.9</x>
@@ -484,6 +511,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_053" name="Kitchen" enable="Y" default="N" thumb="cbg_053.png" display_order="2" is_premium="N" money="0" sharing="0" aid="23071">
+		<bg id="cbg_053_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_053_PROP8" index="1">
 		<file>whiteboard.g4b_600.swf</file>
 		<x>300.5</x>
@@ -549,6 +579,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_054" name="Living room" enable="Y" default="N" thumb="cbg_054.png" display_order="2" is_premium="N" money="0" sharing="0" aid="23072">
+		<bg id="cbg_054_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_054_PROP7" index="1">
 		<file>whiteboard.g4b_465.swf</file>
 		<x>225.8</x>
@@ -587,6 +620,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_071" name="Home - backyard" enable="Y" default="N" thumb="cbg_071.png" display_order="2" is_premium="N" money="0" sharing="0" aid="23089">
+		<bg id="cbg_071_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_071_PROP6" index="1">
 		<file>whiteboard.g4b_856.swf</file>
 		<x>319.6</x>
@@ -598,6 +634,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_072" name="Home - bathroom" enable="Y" default="N" thumb="cbg_072.png" display_order="2" is_premium="N" money="0" sharing="0" aid="23090">
+		<bg id="cbg_072_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_072_PROP7" index="1">
 		<file>whiteboard.g4b_849.swf</file>
 		<x>322</x>
@@ -636,6 +675,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_047" name="Bar" enable="Y" default="N" thumb="cbg_047.png" display_order="3" is_premium="N" money="0" sharing="0" aid="23067">
+		<bg id="cbg_047_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_047_PROP9" index="1">
 		<file>whiteboard.g4b_573.swf</file>
 		<x>477.9</x>
@@ -683,6 +725,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_048" name="Coffee Shop" enable="Y" default="N" thumb="cbg_048.png" display_order="3" is_premium="N" money="0" sharing="0" aid="23068">
+		<bg id="cbg_048_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_048_PROP1" index="1">
 		<file>whiteboard.g4b_577.swf</file>
 		<x>211.7</x>
@@ -721,6 +766,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_073" name="Public - toilet" enable="Y" default="N" thumb="cbg_073.png" display_order="3" is_premium="N" money="0" sharing="0" aid="23091">
+		<bg id="cbg_073_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_073_PROP19" index="5">
 		<file>whiteboard.msp_bathroombasin.msp_bathroombasin_g4b_799.swf</file>
 		<x>166.5</x>
@@ -773,6 +821,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_074" name="Restaurant - kitchen" enable="Y" default="N" thumb="cbg_074.png" display_order="3" is_premium="N" money="0" sharing="0" aid="23092">
+		<bg id="cbg_074_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_074_PROP6" index="1">
 		<file>whiteboard.g4b_868.swf</file>
 		<x>182.1</x>
@@ -820,6 +871,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_075" name="Warehouse - loading dock" enable="Y" default="N" thumb="cbg_075.png" display_order="3" is_premium="N" money="0" sharing="0" aid="23093">
+		<bg id="cbg_075_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_075_PROP6" index="1">
 		<file>whiteboard.g4b_864.swf</file>
 		<x>311.6</x>
@@ -849,6 +903,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_076" name="Warehouse - pallet racking" enable="Y" default="N" thumb="cbg_076.png" display_order="3" is_premium="N" money="0" sharing="0" aid="23094">
+		<bg id="cbg_076_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_076_PROP6" index="1">
 		<file>whiteboard.g4b_857.swf</file>
 		<x>189.3</x>
@@ -905,6 +962,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_077" name="Factory - workshop" enable="Y" default="N" thumb="cbg_077.png" display_order="3" is_premium="N" money="0" sharing="0" aid="23095">
+		<bg id="cbg_077_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_077_PROP11" index="6">
 		<file>whiteboard.g4b_846.swf</file>
 		<x>163.8</x>
@@ -967,6 +1027,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_078" name="Factory - machinery" enable="Y" default="N" thumb="cbg_078.png" display_order="3" is_premium="N" money="0" sharing="0" aid="23096">
+		<bg id="cbg_078_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_078_PROP11" index="3">
 		<file>whiteboard.g4b_861.swf</file>
 		<x>142.6</x>
@@ -1005,6 +1068,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_079" name="School - lockers" enable="Y" default="N" thumb="cbg_079.png" display_order="3" is_premium="N" money="0" sharing="0" aid="23097">
+		<bg id="cbg_079_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_079_PROP8" index="1">
 		<file>whiteboard.g4b_853.swf</file>
 		<x>260.8</x>
@@ -1025,6 +1091,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_080" name="School - classroom" enable="Y" default="N" thumb="cbg_080.png" display_order="3" is_premium="N" money="0" sharing="0" aid="23098">
+		<bg id="cbg_080_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_080_PROP14" index="1">
 		<file>whiteboard.g4b_922.swf</file>
 		<x>326.4</x>
@@ -1081,6 +1150,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_081" name="School - classroom" enable="Y" default="N" thumb="cbg_081.png" display_order="3" is_premium="N" money="0" sharing="0" aid="23099">
+		<bg id="cbg_081_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_081_PROP7" index="1">
 		<file>whiteboard.g4b_930.swf</file>
 		<x>312.7</x>
@@ -1110,6 +1182,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_082" name="School - entrance" enable="Y" default="N" thumb="cbg_082.png" display_order="3" is_premium="N" money="0" sharing="0" aid="23100">
+		<bg id="cbg_082_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_082_PROP6" index="2">
 		<file>whiteboard.g4b_925.swf</file>
 		<x>316</x>
@@ -1139,6 +1214,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_039" name="Eiffel tower" enable="Y" default="N" thumb="cbg_039.png" display_order="10" is_premium="N" money="0" sharing="0" aid="23063">
+		<bg id="cbg_039_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_039_PROP1" index="1">
 		<file>whiteboard.g4b_538.swf</file>
 		<x>322.5</x>
@@ -1150,6 +1228,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_040" name="Pyramid" enable="Y" default="N" thumb="cbg_040.png" display_order="11" is_premium="N" money="0" sharing="0" aid="23064">
+		<bg id="cbg_040_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_040_PROP2" index="1">
 		<file>whiteboard.g4b_539.swf</file>
 		<x>322.5</x>
@@ -1161,6 +1242,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_041" name="Kitchen" enable="Y" default="N" thumb="cbg_041.png" display_order="11" is_premium="N" money="0" sharing="0" aid="23065">
+		<bg id="cbg_041_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_041_PROP2" index="1">
 		<file>whiteboard.g4b_540.swf</file>
 		<x>322</x>
@@ -1172,6 +1256,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_042" name="Hong Kong street" enable="Y" default="N" thumb="cbg_042.png" display_order="11" is_premium="N" money="0" sharing="0" aid="23066">
+		<bg id="cbg_042_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_042_PROP2" index="1">
 		<file>whiteboard.g4b_541.swf</file>
 		<x>314.5</x>
@@ -1183,6 +1270,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_061" name="Gift Shop" enable="Y" default="N" thumb="cbg_061.png" display_order="20" is_premium="N" money="0" sharing="0" aid="23079">
+		<bg id="cbg_061_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_061_PROP7" index="1">
 		<file>whiteboard.g4b_640.swf</file>
 		<x>293.4</x>
@@ -1212,6 +1302,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_062" name="Clothing Boutique" enable="Y" default="N" thumb="cbg_062.png" display_order="20" is_premium="N" money="0" sharing="0" aid="23080">
+		<bg id="cbg_062_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_062_PROP11" index="1">
 		<file>whiteboard.g4b_644.swf</file>
 		<x>429.2</x>
@@ -1241,6 +1334,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_063" name="Shops" enable="Y" default="N" thumb="cbg_063.png" display_order="20" is_premium="N" money="0" sharing="0" aid="23081">
+		<bg id="cbg_063_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_063_PROP5" index="1">
 		<file>whiteboard.g4b_648.swf</file>
 		<x>461.6</x>
@@ -1270,6 +1366,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_064" name="Grocery Store" enable="Y" default="N" thumb="cbg_064.png" display_order="20" is_premium="N" money="0" sharing="0" aid="23082">
+		<bg id="cbg_064_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_064_PROP6" index="1">
 		<file>whiteboard.g4b_649.swf</file>
 		<x>311.3</x>
@@ -1281,6 +1380,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_065" name="Grocery Store" enable="Y" default="N" thumb="cbg_065.png" display_order="20" is_premium="N" money="0" sharing="0" aid="23083">
+		<bg id="cbg_065_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_065_PROP5" index="1">
 		<file>whiteboard.g4b_638.swf</file>
 		<x>445.4</x>
@@ -1310,6 +1412,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_066" name="Store" enable="Y" default="N" thumb="cbg_066.png" display_order="20" is_premium="N" money="0" sharing="0" aid="23084">
+		<bg id="cbg_066_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_066_PROP9" index="1">
 		<file>whiteboard.g4b_645.swf</file>
 		<x>426</x>
@@ -1339,6 +1444,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_067" name="Waiting Room" enable="Y" default="N" thumb="cbg_067.png" display_order="30" is_premium="N" money="0" sharing="0" aid="23085">
+		<bg id="cbg_067_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_067_PROP11" index="1">
 		<file>whiteboard.g4b_670.swf</file>
 		<x>205</x>
@@ -1377,6 +1485,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_068" name="Patient Examination Room" enable="Y" default="N" thumb="cbg_068.png" display_order="30" is_premium="N" money="0" sharing="0" aid="23086">
+		<bg id="cbg_068_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_068_PROP6" index="3">
 		<file>whiteboard.g4b_673.swf</file>
 		<x>176.3</x>
@@ -1433,6 +1544,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_069" name="Hospital Bed" enable="Y" default="N" thumb="cbg_069.png" display_order="30" is_premium="N" money="0" sharing="0" aid="23087">
+		<bg id="cbg_069_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_069_PROP8" index="1">
 		<file>whiteboard.g4b_676.swf</file>
 		<x>300.8</x>
@@ -1453,6 +1567,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_070" name="Hospital MRI lab" enable="Y" default="N" thumb="cbg_070.png" display_order="30" is_premium="N" money="0" sharing="0" aid="23088">
+		<bg id="cbg_070_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_070_PROP6" index="1">
 		<file>whiteboard.g4b_681.swf</file>
 		<x>395.7</x>
@@ -1473,6 +1590,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_083" name="Fire station" enable="Y" default="N" thumb="cbg_083.png" display_order="30" is_premium="N" money="0" sharing="0" aid="23101">
+		<bg id="cbg_083_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_083_PROP6" index="1">
 		<file>whiteboard.g4b_933.swf</file>
 		<x>314.4</x>
@@ -1493,6 +1613,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_084" name="Jail cell" enable="Y" default="N" thumb="cbg_084.png" display_order="30" is_premium="N" money="0" sharing="0" aid="23102">
+		<bg id="cbg_084_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_084_PROP6" index="1">
 		<file>whiteboard.g4b_935.swf</file>
 		<x>331.4</x>
@@ -1522,6 +1645,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_085" name="Police station" enable="Y" default="N" thumb="cbg_085.png" display_order="30" is_premium="N" money="0" sharing="0" aid="23103">
+		<bg id="cbg_085_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_085_PROP6" index="1">
 		<file>whiteboard.g4b_937.swf</file>
 		<x>316</x>
@@ -1542,6 +1668,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_086" name="Airport" enable="Y" default="N" thumb="cbg_086.png" display_order="30" is_premium="N" money="0" sharing="0" aid="23183">
+		<bg id="cbg_086_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="PROP23" index="2">
 		<file>whiteboard.g4b_952.swf</file>
 		<x>461.7</x>
@@ -1589,6 +1718,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_087" name="Boarding Gate" enable="Y" default="N" thumb="cbg_087.png" display_order="30" is_premium="N" money="0" sharing="0" aid="23184">
+		<bg id="cbg_087_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_087_PROP34" index="4">
 		<file>whiteboard.g4b_951.swf</file>
 		<x>415.5</x>
@@ -1630,6 +1762,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_088" name="Running track" enable="Y" default="N" thumb="cbg_088.png" display_order="30" is_premium="N" money="0" sharing="0" aid="25239">
+		<bg id="cbg_088_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_088_PROP8" index="1">
 		<file>whiteboard.g4b_1025.swf</file>
 		<x>322</x>
@@ -1650,6 +1785,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_089" name="Gym" enable="Y" default="N" thumb="cbg_089.png" display_order="30" is_premium="N" money="0" sharing="0" aid="25240">
+		<bg id="cbg_089_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_089_PROP62" index="1">
 		<file>whiteboard.g4b_1030.swf</file>
 		<x>203.1</x>
@@ -1706,6 +1844,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_001" name="Living room" enable="Y" default="N" thumb="cbg_001.png" display_order="101" is_premium="N" money="0" sharing="0" aid="23027">
+		<bg id="cbg_001_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_001_PROP6" index="1">
 		<file>whiteboard.g4b_295.swf</file>
 		<x>235.7</x>
@@ -1717,6 +1858,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_002" name="Bedroom" enable="Y" default="N" thumb="cbg_002.png" display_order="102" is_premium="N" money="0" sharing="0" aid="23028">
+		<bg id="cbg_002_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_002_PROP6" index="1">
 		<file>whiteboard.g4b_296.swf</file>
 		<x>417.5</x>
@@ -1728,6 +1872,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_022" name="Restaurant" enable="Y" default="N" thumb="cbg_022.png" display_order="103" is_premium="N" money="0" sharing="0" aid="23046">
+		<bg id="cbg_022_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_022_PROP7" index="1">
 		<file>whiteboard.g4b_395.swf</file>
 		<x>418.8</x>
@@ -1757,6 +1904,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_027" name="Mall" enable="Y" default="N" thumb="cbg_027.png" display_order="104" is_premium="N" money="0" sharing="0" aid="23051">
+		<bg id="cbg_027_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_027_PROP6" index="1">
 		<file>whiteboard.g4b_504.swf</file>
 		<x>382.7</x>
@@ -1768,6 +1918,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_029" name="Hospital" enable="Y" default="N" thumb="cbg_029.png" display_order="105" is_premium="N" money="0" sharing="0" aid="23053">
+		<bg id="cbg_029_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_029_PROP2" index="1">
 		<file>whiteboard.g4b_513.swf</file>
 		<x>330.5</x>
@@ -1779,6 +1932,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_004" name="Bar" enable="Y" default="N" thumb="cbg_004.png" display_order="106" is_premium="N" money="0" sharing="0" aid="23030">
+		<bg id="cbg_004_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_004_PROP17" index="1">
 		<file>whiteboard.g4b_303.swf</file>
 		<x>428.7</x>
@@ -1790,6 +1946,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_003" name="Snooker table" enable="Y" default="N" thumb="cbg_003.png" display_order="107" is_premium="N" money="0" sharing="0" aid="23029">
+		<bg id="cbg_003_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_003_PROP6" index="1">
 		<file>whiteboard.g4b_302.swf</file>
 		<x>401.6</x>
@@ -1801,6 +1960,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_028" name="Casino" enable="Y" default="N" thumb="cbg_028.png" display_order="108" is_premium="N" money="0" sharing="0" aid="23052">
+		<bg id="cbg_028_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_028_PROP1" index="1">
 		<file>whiteboard.g4b_505.swf</file>
 		<x>306.1</x>
@@ -1812,6 +1974,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_005" name="Garage" enable="Y" default="N" thumb="cbg_005.png" display_order="109" is_premium="N" money="0" sharing="0" aid="23031">
+		<bg id="cbg_005_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_005_PROP6" index="1">
 		<file>whiteboard.g4b_304.swf</file>
 		<x>404.4</x>
@@ -1823,6 +1988,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_031" name="Car" enable="Y" default="N" thumb="cbg_031.png" display_order="110" is_premium="N" money="0" sharing="0" aid="23055">
+		<bg id="cbg_031_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_031_PROP3" index="1">
 		<file>whiteboard.g4b_470.swf</file>
 		<x>322</x>
@@ -1834,6 +2002,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_015" name="Public Transport" enable="Y" default="N" thumb="cbg_015.png" display_order="111" is_premium="N" money="0" sharing="0" aid="23039">
+		<bg id="cbg_015_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_015_PROP6" index="1">
 		<file>whiteboard.g4b_491.swf</file>
 		<x>310</x>
@@ -1845,6 +2016,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_016" name="Airplane" enable="Y" default="N" thumb="cbg_016.png" display_order="112" is_premium="N" money="0" sharing="0" aid="23040">
+		<bg id="cbg_016_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_016_PROP6" index="1">
 		<file>whiteboard.g4b_483.swf</file>
 		<x>326.4</x>
@@ -1856,6 +2030,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_017" name="Airplane" enable="Y" default="N" thumb="cbg_017.png" display_order="113" is_premium="N" money="0" sharing="0" aid="23041">
+		<bg id="cbg_017_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_017_PROP6" index="1">
 		<file>whiteboard.g4b_484.swf</file>
 		<x>328.4</x>
@@ -1867,6 +2044,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_030" name="Train" enable="Y" default="N" thumb="cbg_030.png" display_order="114" is_premium="N" money="0" sharing="0" aid="23054">
+		<bg id="cbg_030_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_030_PROP1" index="1">
 		<file>whiteboard.g4b_506.swf</file>
 		<x>329.7</x>
@@ -1878,6 +2058,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_032" name="Bicycle" enable="Y" default="N" thumb="cbg_032.png" display_order="115" is_premium="N" money="0" sharing="0" aid="23056">
+		<bg id="cbg_032_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_032_PROP3" index="1">
 		<file>whiteboard.g4b_507.swf</file>
 		<x>329.5</x>
@@ -1889,6 +2072,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_033" name="Scooter" enable="Y" default="N" thumb="cbg_033.png" display_order="116" is_premium="N" money="0" sharing="0" aid="23057">
+		<bg id="cbg_033_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_033_PROP1" index="1">
 		<file>whiteboard.g4b_508.swf</file>
 		<x>315.7</x>
@@ -1900,6 +2086,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_034" name="Skateboard" enable="Y" default="N" thumb="cbg_034.png" display_order="117" is_premium="N" money="0" sharing="0" aid="23058">
+		<bg id="cbg_034_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_034_PROP3" index="1">
 		<file>whiteboard.g4b_509.swf</file>
 		<x>322</x>
@@ -1911,6 +2100,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_038" name="Grocery store" enable="Y" default="N" thumb="cbg_038.png" display_order="118" is_premium="N" money="0" sharing="0" aid="23062">
+		<bg id="cbg_038_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_038_PROP8" index="1">
 		<file>whiteboard.g4b_532.swf</file>
 		<x>330.1</x>
@@ -1922,6 +2114,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_025" name="Lecture room" enable="Y" default="N" thumb="cbg_025.png" display_order="202" is_premium="N" money="0" sharing="0" aid="23049">
+		<bg id="cbg_025_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_025_PROP11" index="1">
 		<file>whiteboard.g4b_494.swf</file>
 		<x>470.1</x>
@@ -1969,6 +2164,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_026" name="Conference room" enable="Y" default="N" thumb="cbg_026.png" display_order="203" is_premium="N" money="0" sharing="0" aid="23050">
+		<bg id="cbg_026_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_026_PROP12" index="1">
 		<file>whiteboard.g4b_042.swf</file>
 		<x>207.5</x>
@@ -2016,6 +2214,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_024" name="Lift" enable="Y" default="N" thumb="cbg_024.png" display_order="204" is_premium="N" money="0" sharing="0" aid="23048">
+		<bg id="cbg_024_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_024_PROP6" index="1">
 		<file>whiteboard.g4b_488.swf</file>
 		<x>322</x>
@@ -2027,6 +2228,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_006" name="Organization Chart" enable="Y" default="N" thumb="cbg_006.png" display_order="205" is_premium="N" money="0" sharing="0" aid="23032">
+		<bg id="cbg_006_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_006_PROP6" index="1">
 		<file>whiteboard.g4b_399.swf</file>
 		<x>329.1</x>
@@ -2038,6 +2242,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_012" name="Globe" enable="Y" default="N" thumb="cbg_012.png" display_order="206" is_premium="N" money="0" sharing="0" aid="23037">
+		<bg id="cbg_012_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_012_PROP6" index="1">
 		<file>whiteboard.g4b_076.swf</file>
 		<x>307.6</x>
@@ -2049,6 +2256,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_023" name="World map" enable="Y" default="N" thumb="cbg_023.png" display_order="207" is_premium="N" money="0" sharing="0" aid="23047">
+		<bg id="cbg_023_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_023_PROP6" index="1">
 		<file>whiteboard.g4b_129.swf</file>
 		<x>330.6</x>
@@ -2060,6 +2270,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_013" name="USA" enable="Y" default="N" thumb="cbg_013.png" display_order="208" is_premium="N" money="0" sharing="0" aid="23038">
+		<bg id="cbg_013_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_013_PROP6" index="1">
 		<file>whiteboard.g4b_333.swf</file>
 		<x>322</x>
@@ -2071,6 +2284,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_036" name="Stock market" enable="Y" default="N" thumb="cbg_036.png" display_order="209" is_premium="N" money="0" sharing="0" aid="23060">
+		<bg id="cbg_036_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_036_PROP1" index="1">
 		<file>whiteboard.g4b_499.swf</file>
 		<x>329.4</x>
@@ -2082,6 +2298,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_009" name="Webpage" enable="Y" default="N" thumb="cbg_009.png" display_order="301" is_premium="N" money="0" sharing="0" aid="23035">
+		<bg id="cbg_009_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_009_PROP7" index="1">
 		<file>whiteboard.g4b_007.swf</file>
 		<x>322</x>
@@ -2165,6 +2384,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_008" name="Social Media" enable="Y" default="N" thumb="cbg_008.png" display_order="302" is_premium="N" money="0" sharing="0" aid="23034">
+		<bg id="cbg_008_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_008_PROP25" index="1">
 		<file>whiteboard.g4b_232.swf</file>
 		<x>322</x>
@@ -2230,6 +2452,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_007" name="Facebook" enable="Y" default="N" thumb="cbg_007.png" display_order="303" is_premium="N" money="0" sharing="0" aid="23033">
+		<bg id="cbg_007_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_007_PROP6" index="1">
 		<file>whiteboard.g4b_004.swf</file>
 		<x>322</x>
@@ -2241,6 +2466,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_010" name="Iphone" enable="Y" default="N" thumb="cbg_010.png" display_order="304" is_premium="N" money="0" sharing="0" aid="23036">
+		<bg id="cbg_010_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_010_PROP6" index="1">
 		<file>whiteboard.g4b_018.swf</file>
 		<x>310.8</x>
@@ -2261,6 +2489,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_037" name="Desert Island" enable="Y" default="N" thumb="cbg_037.png" display_order="401" is_premium="N" money="0" sharing="0" aid="23061">
+		<bg id="cbg_037_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_037_PROP2" index="1">
 		<file>whiteboard.g4b_481.swf</file>
 		<x>329.4</x>
@@ -2281,6 +2512,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_035" name="Space" enable="Y" default="N" thumb="cbg_035.png" display_order="402" is_premium="N" money="0" sharing="0" aid="23059">
+		<bg id="cbg_035_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_035_PROP10" index="1">
 		<file>whiteboard.g4b_268.swf</file>
 		<x>410.5</x>
@@ -2301,6 +2535,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_018" name="Earthquake zone" enable="Y" default="N" thumb="cbg_018.png" display_order="403" is_premium="N" money="0" sharing="0" aid="23042">
+		<bg id="cbg_018_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_018_PROP6" index="1">
 		<file>whiteboard.g4b_496.swf</file>
 		<x>322</x>
@@ -2312,6 +2549,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_019" name="Flooded zone" enable="Y" default="N" thumb="cbg_019.png" display_order="404" is_premium="N" money="0" sharing="0" aid="23043">
+		<bg id="cbg_019_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_019_PROP6" index="1">
 		<file>whiteboard.g4b_497.swf</file>
 		<x>326.9</x>
@@ -2323,6 +2563,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_020" name="Heaven" enable="Y" default="N" thumb="cbg_020.png" display_order="405" is_premium="N" money="0" sharing="0" aid="23044">
+		<bg id="cbg_020_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_020_PROP6" index="1">
 		<file>whiteboard.g4b_479.swf</file>
 		<x>310</x>
@@ -2334,6 +2577,9 @@
 	</prop>
 </compositebg>
 	<compositebg id="cbg_021" name="Hell" enable="Y" default="N" thumb="cbg_021.png" display_order="406" is_premium="N" money="0" sharing="0" aid="23045">
+		<bg id="cbg_021_BG01" index="0">
+			<file>whiteboard.g4b_bg001.swf</file>
+		</bg>
 	<prop id="cbg_021_PROP6" index="1">
 		<file>whiteboard.g4b_480.swf</file>
 		<x>322</x>
@@ -2343,7 +2589,7 @@
 		<face>1</face>
 		<rotation>0</rotation>
 	</prop>
-</compositebg>
+	</compositebg>
 	<prop id="g4b_001.swf" name="Icons - Speech bubble / Talk / Speech Balloon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="22063" money="0" sharing="0" has_mask="Y"/>
 	<prop id="g4b_002.swf" name="Icons - Thinking bubble / Thoughts" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="22064" money="0" sharing="0" has_mask="Y"/>
 	<prop id="g4b_003.swf" name="Icons - Lightbulb / Idea" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="22065" money="0" sharing="0" has_mask="Y"/>
